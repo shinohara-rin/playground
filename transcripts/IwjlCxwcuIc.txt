@@ -1,0 +1,20 @@
+This is a message from Tom Kaitchuck 
+a member of the rust community.  In computer science when a problem is 
+solved the solution can provide a new   level of abstraction and future programs can 
+be built without understanding the problem. Of course, if the problem isn't really solved 
+a different manifestation of the same problem   appears in the next level of abstraction.
+For the past 50 years a defining problem   in computer programming has been 
+managing a shared mutable state.  That is data which can change, 
+but is used in multiple places.  Functional languages have attempted to 
+avoid this by preventing mutability.  Object-oriented languages have attempted to avoid   it by encapsulating state 
+in classes to limit sharing.  Neither of these approaches solves 
+the root problem, as a result,   it has cropped up in a wide variety of 
+surprising ways: security vulnerabilities,   the need for garbage collection, data races, null 
+pointer exceptions, and performance problems.  The first programming language to 
+directly solve this problem is Rust.  Because of this, code written in Rust can 
+have; memory safety without garbage collection,   concurrency without race conditions, and 
+performance without compromising safety. Rust is a non-commercial open-source 
+community driven programming language.  The Rust community is open and 
+welcoming to people of all:   genders, sexual orientations, disabilities, 
+ethnicities, religions, and skill levels. Their website rust-lang.org can 
+point you to people who would   be happy to help you level up your programming.

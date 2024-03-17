@@ -1,0 +1,3047 @@
+[
+    {
+        "text": "have you ever looked at a breathtaking",
+        "start": 0.84,
+        "duration": 4.38
+    },
+    {
+        "text": "digital art piece and deeply wondered",
+        "start": 3.06,
+        "duration": 3.96
+    },
+    {
+        "text": "how they created that",
+        "start": 5.22,
+        "duration": 3.48
+    },
+    {
+        "text": "there are many different approaches to",
+        "start": 7.02,
+        "duration": 3.9
+    },
+    {
+        "text": "digital art but shaders might be one of",
+        "start": 8.7,
+        "duration": 4.14
+    },
+    {
+        "text": "the most powerful and versatile when it",
+        "start": 10.92,
+        "duration": 4.139
+    },
+    {
+        "text": "comes to creative coding shaders are",
+        "start": 12.84,
+        "duration": 3.9
+    },
+    {
+        "text": "like the paint brushes of the digital",
+        "start": 15.059,
+        "duration": 3.901
+    },
+    {
+        "text": "age they allow you to turn a blank",
+        "start": 16.74,
+        "duration": 4.5
+    },
+    {
+        "text": "screen into a stunning animation in real",
+        "start": 18.96,
+        "duration": 4.44
+    },
+    {
+        "text": "time and they're responsible for the",
+        "start": 21.24,
+        "duration": 3.779
+    },
+    {
+        "text": "stunning visuals in some of your",
+        "start": 23.4,
+        "duration": 4.139
+    },
+    {
+        "text": "favorite video games and movies they can",
+        "start": 25.019,
+        "duration": 4.381
+    },
+    {
+        "text": "be used by creative developers in order",
+        "start": 27.539,
+        "duration": 4.621
+    },
+    {
+        "text": "to make 2D and 3D renderings exclusively",
+        "start": 29.4,
+        "duration": 5.22
+    },
+    {
+        "text": "using Code their imagination being the",
+        "start": 32.16,
+        "duration": 3.6
+    },
+    {
+        "text": "only limit",
+        "start": 34.62,
+        "duration": 3.3
+    },
+    {
+        "text": "Shader art coding is all about using",
+        "start": 35.76,
+        "duration": 4.319
+    },
+    {
+        "text": "mathematical functions and algorithms to",
+        "start": 37.92,
+        "duration": 4.5
+    },
+    {
+        "text": "manipulate pixels and create incredible",
+        "start": 40.079,
+        "duration": 5.101
+    },
+    {
+        "text": "visual effects it's a unique Fusion of",
+        "start": 42.42,
+        "duration": 5.22
+    },
+    {
+        "text": "Art and Science where creativity and",
+        "start": 45.18,
+        "duration": 4.199
+    },
+    {
+        "text": "precision Collide to produce something",
+        "start": 47.64,
+        "duration": 4.56
+    },
+    {
+        "text": "truly mesmerizing",
+        "start": 49.379,
+        "duration": 5.281
+    },
+    {
+        "text": "but what are shaders you may ask in",
+        "start": 52.2,
+        "duration": 4.44
+    },
+    {
+        "text": "essence shaders are small programs that",
+        "start": 54.66,
+        "duration": 3.899
+    },
+    {
+        "text": "run on your graphics card and are",
+        "start": 56.64,
+        "duration": 3.899
+    },
+    {
+        "text": "responsible for calculating the color of",
+        "start": 58.559,
+        "duration": 4.8
+    },
+    {
+        "text": "each pixel on a canvas shaders work by",
+        "start": 60.539,
+        "duration": 5.041
+    },
+    {
+        "text": "taking inputs such as the position of",
+        "start": 63.359,
+        "duration": 4.321
+    },
+    {
+        "text": "the current pixel and using them to",
+        "start": 65.58,
+        "duration": 4.38
+    },
+    {
+        "text": "calculate a single final color using the",
+        "start": 67.68,
+        "duration": 5.46
+    },
+    {
+        "text": "opengl shading language or glsl in short",
+        "start": 69.96,
+        "duration": 5.339
+    },
+    {
+        "text": "it can be seen as a mathematical",
+        "start": 73.14,
+        "duration": 4.86
+    },
+    {
+        "text": "function that Maps a 2d coordinate the",
+        "start": 75.299,
+        "duration": 4.921
+    },
+    {
+        "text": "pixel's position represented as X and Y",
+        "start": 78.0,
+        "duration": 4.2
+    },
+    {
+        "text": "to an output color which in computer",
+        "start": 80.22,
+        "duration": 4.079
+    },
+    {
+        "text": "Graphics is represented by a red green",
+        "start": 82.2,
+        "duration": 3.66
+    },
+    {
+        "text": "and blue Channel",
+        "start": 84.299,
+        "duration": 3.601
+    },
+    {
+        "text": "this function is computed in parallel",
+        "start": 85.86,
+        "duration": 4.02
+    },
+    {
+        "text": "for every pixel on the screen which",
+        "start": 87.9,
+        "duration": 3.899
+    },
+    {
+        "text": "means that shaders can perform millions",
+        "start": 89.88,
+        "duration": 4.02
+    },
+    {
+        "text": "of calculations per second to produce",
+        "start": 91.799,
+        "duration": 4.921
+    },
+    {
+        "text": "stunning real-time graphics",
+        "start": 93.9,
+        "duration": 4.679
+    },
+    {
+        "text": "since discovering shaders about a year",
+        "start": 96.72,
+        "duration": 4.38
+    },
+    {
+        "text": "ago I've also made some of my own it's",
+        "start": 98.579,
+        "duration": 3.9
+    },
+    {
+        "text": "really fun to learn a new computer",
+        "start": 101.1,
+        "duration": 3.42
+    },
+    {
+        "text": "Graphics technique and make a Shader",
+        "start": 102.479,
+        "duration": 4.261
+    },
+    {
+        "text": "about it there are so many topics to",
+        "start": 104.52,
+        "duration": 3.959
+    },
+    {
+        "text": "learn from and so much space for",
+        "start": 106.74,
+        "duration": 3.9
+    },
+    {
+        "text": "Discovery and original creation that",
+        "start": 108.479,
+        "duration": 4.441
+    },
+    {
+        "text": "it's impossible to get bored",
+        "start": 110.64,
+        "duration": 3.78
+    },
+    {
+        "text": "while they're great at rendering",
+        "start": 112.92,
+        "duration": 4.199
+    },
+    {
+        "text": "stunning 3D scenes and even 4D for the",
+        "start": 114.42,
+        "duration": 5.04
+    },
+    {
+        "text": "particularly Brave developers shaders",
+        "start": 117.119,
+        "duration": 4.981
+    },
+    {
+        "text": "also excel at rendering 2D images and",
+        "start": 119.46,
+        "duration": 5.339
+    },
+    {
+        "text": "animations they usually run blazing fast",
+        "start": 122.1,
+        "duration": 4.74
+    },
+    {
+        "text": "compared to some heavy 3D shaders that",
+        "start": 124.799,
+        "duration": 4.32
+    },
+    {
+        "text": "require more performant gpus and compute",
+        "start": 126.84,
+        "duration": 3.779
+    },
+    {
+        "text": "power",
+        "start": 129.119,
+        "duration": 3.601
+    },
+    {
+        "text": "for over a year now I've been sharing my",
+        "start": 130.619,
+        "duration": 4.321
+    },
+    {
+        "text": "own trippy animations online mostly in",
+        "start": 132.72,
+        "duration": 4.379
+    },
+    {
+        "text": "2D in order for Shader coding to get",
+        "start": 134.94,
+        "duration": 4.68
+    },
+    {
+        "text": "known by a larger audience doing so I've",
+        "start": 137.099,
+        "duration": 4.621
+    },
+    {
+        "text": "received many requests for tutorials and",
+        "start": 139.62,
+        "duration": 3.72
+    },
+    {
+        "text": "explanations about how to create such",
+        "start": 141.72,
+        "duration": 5.04
+    },
+    {
+        "text": "visuals using code in this video I will",
+        "start": 143.34,
+        "duration": 5.039
+    },
+    {
+        "text": "walk you through the creation of this",
+        "start": 146.76,
+        "duration": 4.14
+    },
+    {
+        "text": "Shader animation from scratch to give",
+        "start": 148.379,
+        "duration": 4.08
+    },
+    {
+        "text": "you some insights about how to start",
+        "start": 150.9,
+        "duration": 3.44
+    },
+    {
+        "text": "making digital art using shaders",
+        "start": 152.459,
+        "duration": 4.201
+    },
+    {
+        "text": "additionally I will provide some useful",
+        "start": 154.34,
+        "duration": 4.24
+    },
+    {
+        "text": "references and tools that can assist you",
+        "start": 156.66,
+        "duration": 3.48
+    },
+    {
+        "text": "on your artistic journey and that will",
+        "start": 158.58,
+        "duration": 4.379
+    },
+    {
+        "text": "be listed in the description I assume a",
+        "start": 160.14,
+        "duration": 4.56
+    },
+    {
+        "text": "basic knowledge of programming but don't",
+        "start": 162.959,
+        "duration": 3.36
+    },
+    {
+        "text": "worry if you don't know anything about",
+        "start": 164.7,
+        "duration": 4.08
+    },
+    {
+        "text": "code I'll explain every step of the",
+        "start": 166.319,
+        "duration": 4.081
+    },
+    {
+        "text": "process including the mathematical",
+        "start": 168.78,
+        "duration": 4.08
+    },
+    {
+        "text": "aspects using visuals that by the way",
+        "start": 170.4,
+        "duration": 4.919
+    },
+    {
+        "text": "are also made with code",
+        "start": 172.86,
+        "duration": 4.26
+    },
+    {
+        "text": "if you want to follow along with this",
+        "start": 175.319,
+        "duration": 3.901
+    },
+    {
+        "text": "video you can head over to shadertoy.com",
+        "start": 177.12,
+        "duration": 4.38
+    },
+    {
+        "text": "it's a platform where you can easily",
+        "start": 179.22,
+        "duration": 4.14
+    },
+    {
+        "text": "start writing your own shaders and share",
+        "start": 181.5,
+        "duration": 3.84
+    },
+    {
+        "text": "them with others and it's a mind of",
+        "start": 183.36,
+        "duration": 3.72
+    },
+    {
+        "text": "inspiration and knowledge about computer",
+        "start": 185.34,
+        "duration": 4.02
+    },
+    {
+        "text": "graphics and digital art",
+        "start": 187.08,
+        "duration": 4.439
+    },
+    {
+        "text": "I will start from the most basic Shader",
+        "start": 189.36,
+        "duration": 3.9
+    },
+    {
+        "text": "that gets automatically generated when",
+        "start": 191.519,
+        "duration": 3.3
+    },
+    {
+        "text": "you click on new",
+        "start": 193.26,
+        "duration": 3.3
+    },
+    {
+        "text": "actually I'll remove all of this to",
+        "start": 194.819,
+        "duration": 3.481
+    },
+    {
+        "text": "explain from the very beginning what is",
+        "start": 196.56,
+        "duration": 4.38
+    },
+    {
+        "text": "going on each Shader is defined inside",
+        "start": 198.3,
+        "duration": 4.799
+    },
+    {
+        "text": "the main image function and has only two",
+        "start": 200.94,
+        "duration": 4.62
+    },
+    {
+        "text": "parameters frag cord is the input",
+        "start": 203.099,
+        "duration": 4.92
+    },
+    {
+        "text": "parameter it is of type vect2 meaning",
+        "start": 205.56,
+        "duration": 4.44
+    },
+    {
+        "text": "that it's a vector containing two values",
+        "start": 208.019,
+        "duration": 4.261
+    },
+    {
+        "text": "the X and the y coordinate of the",
+        "start": 210.0,
+        "duration": 4.92
+    },
+    {
+        "text": "current pixel frag color is the output",
+        "start": 212.28,
+        "duration": 5.099
+    },
+    {
+        "text": "parameter and it is of type VEC 4",
+        "start": 214.92,
+        "duration": 4.319
+    },
+    {
+        "text": "because it holds the red green and blue",
+        "start": 217.379,
+        "duration": 4.201
+    },
+    {
+        "text": "channels as well as an additional Alpha",
+        "start": 219.239,
+        "duration": 3.481
+    },
+    {
+        "text": "Channel which stands for the",
+        "start": 221.58,
+        "duration": 3.96
+    },
+    {
+        "text": "transparency of the pixel let's assign a",
+        "start": 222.72,
+        "duration": 5.159
+    },
+    {
+        "text": "value to that output parameter here we",
+        "start": 225.54,
+        "duration": 4.08
+    },
+    {
+        "text": "set frag color to a vector of four",
+        "start": 227.879,
+        "duration": 4.261
+    },
+    {
+        "text": "components using the vec-4 keyword then",
+        "start": 229.62,
+        "duration": 4.86
+    },
+    {
+        "text": "specifying each component's value the",
+        "start": 232.14,
+        "duration": 4.2
+    },
+    {
+        "text": "fourth value is the alpha Channel it has",
+        "start": 234.48,
+        "duration": 3.78
+    },
+    {
+        "text": "no effect in Shader toy so I'll keep it",
+        "start": 236.34,
+        "duration": 4.979
+    },
+    {
+        "text": "to one in glsl the output color is",
+        "start": 238.26,
+        "duration": 4.8
+    },
+    {
+        "text": "normalized meaning that each Channel",
+        "start": 241.319,
+        "duration": 4.5
+    },
+    {
+        "text": "ranges from 0 to 1 by setting all",
+        "start": 243.06,
+        "duration": 4.8
+    },
+    {
+        "text": "channels to zero the output is full",
+        "start": 245.819,
+        "duration": 4.741
+    },
+    {
+        "text": "black remember that this code is ran for",
+        "start": 247.86,
+        "duration": 5.28
+    },
+    {
+        "text": "every pixel to determine its color here",
+        "start": 250.56,
+        "duration": 4.44
+    },
+    {
+        "text": "the output color is a constant so it",
+        "start": 253.14,
+        "duration": 3.54
+    },
+    {
+        "text": "will display a uniform black color",
+        "start": 255.0,
+        "duration": 3.359
+    },
+    {
+        "text": "across the screen",
+        "start": 256.68,
+        "duration": 3.839
+    },
+    {
+        "text": "similarly by setting all three channels",
+        "start": 258.359,
+        "duration": 4.981
+    },
+    {
+        "text": "to one we can display full white by",
+        "start": 260.519,
+        "duration": 4.74
+    },
+    {
+        "text": "playing with all the possible values for",
+        "start": 263.34,
+        "duration": 3.66
+    },
+    {
+        "text": "all three channels we can produce",
+        "start": 265.259,
+        "duration": 3.601
+    },
+    {
+        "text": "millions of unique colors",
+        "start": 267.0,
+        "duration": 3.72
+    },
+    {
+        "text": "I should also mention that there is a",
+        "start": 268.86,
+        "duration": 3.6
+    },
+    {
+        "text": "nice Chrome extension for Shader toy",
+        "start": 270.72,
+        "duration": 3.9
+    },
+    {
+        "text": "that provides some useful features like",
+        "start": 272.46,
+        "duration": 4.08
+    },
+    {
+        "text": "this Color Picker that allow you to",
+        "start": 274.62,
+        "duration": 4.26
+    },
+    {
+        "text": "convert colors to vectors easily it's",
+        "start": 276.54,
+        "duration": 4.32
+    },
+    {
+        "text": "called the Shader toy unofficial plugin",
+        "start": 278.88,
+        "duration": 4.5
+    },
+    {
+        "text": "now let's use the value of the input",
+        "start": 280.86,
+        "duration": 4.26
+    },
+    {
+        "text": "parameter in order to start seeing some",
+        "start": 283.38,
+        "duration": 4.08
+    },
+    {
+        "text": "better things than a uniform color the",
+        "start": 285.12,
+        "duration": 4.2
+    },
+    {
+        "text": "range of frag cord is dependent on the",
+        "start": 287.46,
+        "duration": 4.32
+    },
+    {
+        "text": "size of the canvas for instance if",
+        "start": 289.32,
+        "duration": 5.099
+    },
+    {
+        "text": "you're rendering on a 1600 by 900 canvas",
+        "start": 291.78,
+        "duration": 6.18
+    },
+    {
+        "text": "X will range between 0 and 1600 and Y",
+        "start": 294.419,
+        "duration": 6.661
+    },
+    {
+        "text": "will range between 0 and 900 however",
+        "start": 297.96,
+        "duration": 5.34
+    },
+    {
+        "text": "when working with shaders we'll usually",
+        "start": 301.08,
+        "duration": 3.899
+    },
+    {
+        "text": "want to have these coordinates in clip",
+        "start": 303.3,
+        "duration": 4.8
+    },
+    {
+        "text": "space ranging from -1 to 1 so that they",
+        "start": 304.979,
+        "duration": 4.861
+    },
+    {
+        "text": "do not depend on the current resolution",
+        "start": 308.1,
+        "duration": 4.44
+    },
+    {
+        "text": "of the canvas so I will create a new",
+        "start": 309.84,
+        "duration": 4.799
+    },
+    {
+        "text": "Vector called UV which will contain our",
+        "start": 312.54,
+        "duration": 4.32
+    },
+    {
+        "text": "transformed pixel coordinates the first",
+        "start": 314.639,
+        "duration": 4.381
+    },
+    {
+        "text": "step is to normalize frag cord so that",
+        "start": 316.86,
+        "duration": 4.86
+    },
+    {
+        "text": "its components range from 0 to 1. for",
+        "start": 319.02,
+        "duration": 4.739
+    },
+    {
+        "text": "that we simply need to divide it by a",
+        "start": 321.72,
+        "duration": 3.96
+    },
+    {
+        "text": "vector containing the current canvas",
+        "start": 323.759,
+        "duration": 4.621
+    },
+    {
+        "text": "resolution fortunately there's a global",
+        "start": 325.68,
+        "duration": 4.68
+    },
+    {
+        "text": "constant provided by Shader toy called",
+        "start": 328.38,
+        "duration": 4.5
+    },
+    {
+        "text": "eye resolution it's a vector of three",
+        "start": 330.36,
+        "duration": 4.38
+    },
+    {
+        "text": "components holding the current canvas",
+        "start": 332.88,
+        "duration": 4.379
+    },
+    {
+        "text": "size in pixels the first two components",
+        "start": 334.74,
+        "duration": 4.019
+    },
+    {
+        "text": "are the width and height of the output",
+        "start": 337.259,
+        "duration": 3.78
+    },
+    {
+        "text": "texture and the third component is the",
+        "start": 338.759,
+        "duration": 4.38
+    },
+    {
+        "text": "depth and is only used when rendering to",
+        "start": 341.039,
+        "duration": 4.921
+    },
+    {
+        "text": "3D textures as we're rendering on a 2d",
+        "start": 343.139,
+        "duration": 5.34
+    },
+    {
+        "text": "canvas we won't use the depth here and",
+        "start": 345.96,
+        "duration": 4.98
+    },
+    {
+        "text": "the dot XY syntax is used to isolate the",
+        "start": 348.479,
+        "duration": 3.841
+    },
+    {
+        "text": "width and height components of the",
+        "start": 350.94,
+        "duration": 3.36
+    },
+    {
+        "text": "resolution so that the division happens",
+        "start": 352.32,
+        "duration": 4.56
+    },
+    {
+        "text": "between vectors of the same size I'd",
+        "start": 354.3,
+        "duration": 4.2
+    },
+    {
+        "text": "like to pause for a second here to",
+        "start": 356.88,
+        "duration": 3.72
+    },
+    {
+        "text": "discuss an important concept widely used",
+        "start": 358.5,
+        "duration": 5.18
+    },
+    {
+        "text": "in glsl called swizzling writing",
+        "start": 360.6,
+        "duration": 5.34
+    },
+    {
+        "text": "irresolution.xy is equivalent to",
+        "start": 363.68,
+        "duration": 4.6
+    },
+    {
+        "text": "creating a new vect2 and assigning to it",
+        "start": 365.94,
+        "duration": 4.56
+    },
+    {
+        "text": "the X and Y components of eye resolution",
+        "start": 368.28,
+        "duration": 4.56
+    },
+    {
+        "text": "respectively this concept can be",
+        "start": 370.5,
+        "duration": 4.62
+    },
+    {
+        "text": "extended further for instance if we",
+        "start": 372.84,
+        "duration": 4.26
+    },
+    {
+        "text": "wanted to create a new Vector containing",
+        "start": 375.12,
+        "duration": 4.139
+    },
+    {
+        "text": "only the Y and Z components but in",
+        "start": 377.1,
+        "duration": 4.02
+    },
+    {
+        "text": "reverse order we could simply write",
+        "start": 379.259,
+        "duration": 4.321
+    },
+    {
+        "text": "irresolution.zy",
+        "start": 381.12,
+        "duration": 4.799
+    },
+    {
+        "text": "these swizzling syntaxes are valid in",
+        "start": 383.58,
+        "duration": 4.8
+    },
+    {
+        "text": "glsl and allow you to easily create",
+        "start": 385.919,
+        "duration": 4.801
+    },
+    {
+        "text": "arrange and reorder vectors into new",
+        "start": 388.38,
+        "duration": 4.5
+    },
+    {
+        "text": "ones it's also important to note that",
+        "start": 390.72,
+        "duration": 3.66
+    },
+    {
+        "text": "when performing operations between",
+        "start": 392.88,
+        "duration": 3.24
+    },
+    {
+        "text": "vectors that have the same number of",
+        "start": 394.38,
+        "duration": 3.599
+    },
+    {
+        "text": "components it acts as a shortcut",
+        "start": 396.12,
+        "duration": 4.079
+    },
+    {
+        "text": "applying the same operation to every",
+        "start": 397.979,
+        "duration": 5.34
+    },
+    {
+        "text": "corresponding component of the vectors",
+        "start": 400.199,
+        "duration": 5.34
+    },
+    {
+        "text": "so let's check if it worked I will",
+        "start": 403.319,
+        "duration": 4.38
+    },
+    {
+        "text": "display the x value of this new Vector",
+        "start": 405.539,
+        "duration": 4.38
+    },
+    {
+        "text": "in the red Channel only keeping green",
+        "start": 407.699,
+        "duration": 4.801
+    },
+    {
+        "text": "and blue to zero we can observe a red",
+        "start": 409.919,
+        "duration": 4.381
+    },
+    {
+        "text": "gradient that aligns with the fact that",
+        "start": 412.5,
+        "duration": 4.8
+    },
+    {
+        "text": "the UV dot x value linearly ranges from",
+        "start": 414.3,
+        "duration": 5.58
+    },
+    {
+        "text": "0 to 1 as we move from the left to the",
+        "start": 417.3,
+        "duration": 4.98
+    },
+    {
+        "text": "right side of the canvas in a similar",
+        "start": 419.88,
+        "duration": 4.56
+    },
+    {
+        "text": "way if we display the y-coordinate this",
+        "start": 422.28,
+        "duration": 4.38
+    },
+    {
+        "text": "time in the green Channel only we'll see",
+        "start": 424.44,
+        "duration": 3.9
+    },
+    {
+        "text": "a green gradient going from the bottom",
+        "start": 426.66,
+        "duration": 3.0
+    },
+    {
+        "text": "to the top",
+        "start": 428.34,
+        "duration": 3.78
+    },
+    {
+        "text": "now let's display both components at the",
+        "start": 429.66,
+        "duration": 4.379
+    },
+    {
+        "text": "same time in the red and green channels",
+        "start": 432.12,
+        "duration": 3.06
+    },
+    {
+        "text": "respectively",
+        "start": 434.039,
+        "duration": 3.181
+    },
+    {
+        "text": "the bottom left corner is black because",
+        "start": 435.18,
+        "duration": 4.44
+    },
+    {
+        "text": "both components are zero and in the top",
+        "start": 437.22,
+        "duration": 4.319
+    },
+    {
+        "text": "right corner both red and green channels",
+        "start": 439.62,
+        "duration": 4.5
+    },
+    {
+        "text": "are at one which produces yellow all",
+        "start": 441.539,
+        "duration": 4.681
+    },
+    {
+        "text": "other pixel colors contain nuances of",
+        "start": 444.12,
+        "duration": 4.32
+    },
+    {
+        "text": "red and green that visually represent",
+        "start": 446.22,
+        "duration": 5.099
+    },
+    {
+        "text": "the value of the UV coordinates",
+        "start": 448.44,
+        "duration": 5.759
+    },
+    {
+        "text": "note that in glsl we can simplify the",
+        "start": 451.319,
+        "duration": 4.861
+    },
+    {
+        "text": "following expression by merging the",
+        "start": 454.199,
+        "duration": 4.261
+    },
+    {
+        "text": "first two channels into one and directly",
+        "start": 456.18,
+        "duration": 5.16
+    },
+    {
+        "text": "writing UV as it contains two values",
+        "start": 458.46,
+        "duration": 4.98
+    },
+    {
+        "text": "now let's start to transform the space",
+        "start": 461.34,
+        "duration": 3.9
+    },
+    {
+        "text": "in a way that is more convenient to work",
+        "start": 463.44,
+        "duration": 4.68
+    },
+    {
+        "text": "with right now our UV coordinates range",
+        "start": 465.24,
+        "duration": 5.519
+    },
+    {
+        "text": "between 0 and 1 meaning that the center",
+        "start": 468.12,
+        "duration": 5.94
+    },
+    {
+        "text": "pixel coordinate is 0.5.5 but it would",
+        "start": 470.759,
+        "duration": 5.581
+    },
+    {
+        "text": "be preferable to have it exactly at zero",
+        "start": 474.06,
+        "duration": 4.74
+    },
+    {
+        "text": "zero so the center of the canvas matches",
+        "start": 476.34,
+        "duration": 4.259
+    },
+    {
+        "text": "with the center of our coordinate space",
+        "start": 478.8,
+        "duration": 4.2
+    },
+    {
+        "text": "in order to fix that we can first",
+        "start": 480.599,
+        "duration": 5.581
+    },
+    {
+        "text": "subtract 0.5 to each component of our UV",
+        "start": 483.0,
+        "duration": 5.699
+    },
+    {
+        "text": "Vector this will shift the space to the",
+        "start": 486.18,
+        "duration": 4.2
+    },
+    {
+        "text": "upper right and effectively Center it",
+        "start": 488.699,
+        "duration": 4.081
+    },
+    {
+        "text": "however the corners of the canvas now",
+        "start": 490.38,
+        "duration": 5.28
+    },
+    {
+        "text": "range from minus 0.5 to 0.5 instead of",
+        "start": 492.78,
+        "duration": 5.52
+    },
+    {
+        "text": "ranging from -1 to 1 like we wanted at",
+        "start": 495.66,
+        "duration": 4.5
+    },
+    {
+        "text": "the start to achieve this we can",
+        "start": 498.3,
+        "duration": 4.44
+    },
+    {
+        "text": "multiply the coordinates by 2 resulting",
+        "start": 500.16,
+        "duration": 5.099
+    },
+    {
+        "text": "in the center remaining at 0 0 while",
+        "start": 502.74,
+        "duration": 4.44
+    },
+    {
+        "text": "doubling the UV values of all other",
+        "start": 505.259,
+        "duration": 4.021
+    },
+    {
+        "text": "pixels to ensure they fit within clip",
+        "start": 507.18,
+        "duration": 4.32
+    },
+    {
+        "text": "space as a final step we can clean up",
+        "start": 509.28,
+        "duration": 4.139
+    },
+    {
+        "text": "The Code by condensing it into a single",
+        "start": 511.5,
+        "duration": 4.5
+    },
+    {
+        "text": "line and eliminating the parentheses now",
+        "start": 513.419,
+        "duration": 4.261
+    },
+    {
+        "text": "that we have this Foundation our",
+        "start": 516.0,
+        "duration": 3.3
+    },
+    {
+        "text": "objective will be to write instructions",
+        "start": 517.68,
+        "duration": 3.599
+    },
+    {
+        "text": "based on the current pixel coordinate",
+        "start": 519.3,
+        "duration": 4.5
+    },
+    {
+        "text": "display interesting renderings there are",
+        "start": 521.279,
+        "duration": 4.68
+    },
+    {
+        "text": "a multitude of glsl functions at our",
+        "start": 523.8,
+        "duration": 4.38
+    },
+    {
+        "text": "disposal and in this tutorial we will",
+        "start": 525.959,
+        "duration": 4.201
+    },
+    {
+        "text": "explore a selection of them we will",
+        "start": 528.18,
+        "duration": 3.9
+    },
+    {
+        "text": "start by exploring the length function",
+        "start": 530.16,
+        "duration": 4.32
+    },
+    {
+        "text": "this function takes a vector as its",
+        "start": 532.08,
+        "duration": 4.379
+    },
+    {
+        "text": "input and calculates the magnitude of",
+        "start": 534.48,
+        "duration": 4.38
+    },
+    {
+        "text": "that Vector essentially it calculates",
+        "start": 536.459,
+        "duration": 4.261
+    },
+    {
+        "text": "the distance between the vector and the",
+        "start": 538.86,
+        "duration": 4.2
+    },
+    {
+        "text": "origin since we have centered our origin",
+        "start": 540.72,
+        "duration": 4.619
+    },
+    {
+        "text": "we can utilize the length function to",
+        "start": 543.06,
+        "duration": 4.32
+    },
+    {
+        "text": "calculate the distance between any given",
+        "start": 545.339,
+        "duration": 4.381
+    },
+    {
+        "text": "pixel and the center of the screen by",
+        "start": 547.38,
+        "duration": 5.16
+    },
+    {
+        "text": "passing in our UV Vector this can prove",
+        "start": 549.72,
+        "duration": 4.559
+    },
+    {
+        "text": "to be extremely useful when creating",
+        "start": 552.54,
+        "duration": 4.32
+    },
+    {
+        "text": "complex and dynamic renderings I will",
+        "start": 554.279,
+        "duration": 4.141
+    },
+    {
+        "text": "create a float value which unlike",
+        "start": 556.86,
+        "duration": 3.599
+    },
+    {
+        "text": "vectors contains one single decimal",
+        "start": 558.42,
+        "duration": 4.2
+    },
+    {
+        "text": "number and assign the length of our UV",
+        "start": 560.459,
+        "duration": 4.201
+    },
+    {
+        "text": "coordinates to it by setting the red",
+        "start": 562.62,
+        "duration": 3.839
+    },
+    {
+        "text": "channel of the output color to this",
+        "start": 564.66,
+        "duration": 4.26
+    },
+    {
+        "text": "value we can observe a radial gradient",
+        "start": 566.459,
+        "duration": 4.921
+    },
+    {
+        "text": "expanding from the center it represents",
+        "start": 568.92,
+        "duration": 4.56
+    },
+    {
+        "text": "the distance between each pixel and the",
+        "start": 571.38,
+        "duration": 4.44
+    },
+    {
+        "text": "origin of the canvas transitioning from",
+        "start": 573.48,
+        "duration": 5.039
+    },
+    {
+        "text": "black to Red alternatively we can assign",
+        "start": 575.82,
+        "duration": 4.86
+    },
+    {
+        "text": "this value to all three color channels",
+        "start": 578.519,
+        "duration": 5.101
+    },
+    {
+        "text": "creating a grayscale gradient but before",
+        "start": 580.68,
+        "duration": 4.98
+    },
+    {
+        "text": "continuing we need to address an issue",
+        "start": 583.62,
+        "duration": 4.08
+    },
+    {
+        "text": "with the current code everything works",
+        "start": 585.66,
+        "duration": 4.2
+    },
+    {
+        "text": "fine because our canvas is a square and",
+        "start": 587.7,
+        "duration": 4.68
+    },
+    {
+        "text": "has an aspect ratio of 1 meaning the",
+        "start": 589.86,
+        "duration": 4.979
+    },
+    {
+        "text": "width and height are equal however if we",
+        "start": 592.38,
+        "duration": 4.26
+    },
+    {
+        "text": "were to change the aspect ratio by",
+        "start": 594.839,
+        "duration": 4.081
+    },
+    {
+        "text": "making the canvas wider for example we",
+        "start": 596.64,
+        "duration": 3.78
+    },
+    {
+        "text": "would notice that the circle gets",
+        "start": 598.92,
+        "duration": 3.599
+    },
+    {
+        "text": "stretched horizontally this occurs",
+        "start": 600.42,
+        "duration": 4.38
+    },
+    {
+        "text": "because our UV values always range from",
+        "start": 602.519,
+        "duration": 4.861
+    },
+    {
+        "text": "0 to 1 regardless of the canvas's width",
+        "start": 604.8,
+        "duration": 4.92
+    },
+    {
+        "text": "and height to fix this issue we need to",
+        "start": 607.38,
+        "duration": 4.74
+    },
+    {
+        "text": "multiply the X component of our UVS by",
+        "start": 609.72,
+        "duration": 4.38
+    },
+    {
+        "text": "the current aspect ratio of the canvas",
+        "start": 612.12,
+        "duration": 4.08
+    },
+    {
+        "text": "which is its width divided by its height",
+        "start": 614.1,
+        "duration": 4.32
+    },
+    {
+        "text": "this adjustment ensures that we avoid",
+        "start": 616.2,
+        "duration": 4.199
+    },
+    {
+        "text": "any unwanted stretching or Distortion",
+        "start": 618.42,
+        "duration": 3.96
+    },
+    {
+        "text": "effects even when dealing with different",
+        "start": 620.399,
+        "duration": 4.801
+    },
+    {
+        "text": "canvas sizes and aspect ratios to really",
+        "start": 622.38,
+        "duration": 4.68
+    },
+    {
+        "text": "be efficient we can combine our previous",
+        "start": 625.2,
+        "duration": 4.259
+    },
+    {
+        "text": "UV Transformations with this new fix and",
+        "start": 627.06,
+        "duration": 4.56
+    },
+    {
+        "text": "rewrite it on a single line using basic",
+        "start": 629.459,
+        "duration": 5.041
+    },
+    {
+        "text": "math simplifications now I will subtract",
+        "start": 631.62,
+        "duration": 5.76
+    },
+    {
+        "text": "0.5 from this distance the expression",
+        "start": 634.5,
+        "duration": 5.64
+    },
+    {
+        "text": "length UV minus 0.5 actually represents",
+        "start": 637.38,
+        "duration": 4.56
+    },
+    {
+        "text": "the sine distance function of a circle",
+        "start": 640.14,
+        "duration": 4.86
+    },
+    {
+        "text": "with a radius of 0.5 a sign distance",
+        "start": 641.94,
+        "duration": 5.82
+    },
+    {
+        "text": "function or SDF is a term used to",
+        "start": 645.0,
+        "duration": 4.2
+    },
+    {
+        "text": "describe a function that takes a",
+        "start": 647.76,
+        "duration": 3.96
+    },
+    {
+        "text": "position in space as input and Returns",
+        "start": 649.2,
+        "duration": 4.139
+    },
+    {
+        "text": "the distance from that position to a",
+        "start": 651.72,
+        "duration": 4.26
+    },
+    {
+        "text": "given shape it is called signed because",
+        "start": 653.339,
+        "duration": 4.5
+    },
+    {
+        "text": "the distance is positive outside the",
+        "start": 655.98,
+        "duration": 4.08
+    },
+    {
+        "text": "shape negative inside the shape and",
+        "start": 657.839,
+        "duration": 4.201
+    },
+    {
+        "text": "exactly zero at the boundary of the",
+        "start": 660.06,
+        "duration": 3.839
+    },
+    {
+        "text": "shape you can find distance functions",
+        "start": 662.04,
+        "duration": 3.539
+    },
+    {
+        "text": "for a lot of shapes or even make your",
+        "start": 663.899,
+        "duration": 3.721
+    },
+    {
+        "text": "own I've Linked In the description this",
+        "start": 665.579,
+        "duration": 3.601
+    },
+    {
+        "text": "article that provides a collection of",
+        "start": 667.62,
+        "duration": 4.68
+    },
+    {
+        "text": "useful 2dsdfs for various shapes and",
+        "start": 669.18,
+        "duration": 5.159
+    },
+    {
+        "text": "this website in general is also a mine",
+        "start": 672.3,
+        "duration": 3.96
+    },
+    {
+        "text": "of useful tutorials about Shader coding",
+        "start": 674.339,
+        "duration": 3.721
+    },
+    {
+        "text": "so the gradient we're observing",
+        "start": 676.26,
+        "duration": 3.66
+    },
+    {
+        "text": "represents the signed distance to a",
+        "start": 678.06,
+        "duration": 4.86
+    },
+    {
+        "text": "circle with a radius of 0.5 the values",
+        "start": 679.92,
+        "duration": 5.039
+    },
+    {
+        "text": "are positive outside the circle's Edge",
+        "start": 682.92,
+        "duration": 4.08
+    },
+    {
+        "text": "which creates a gradient but they are",
+        "start": 684.959,
+        "duration": 4.081
+    },
+    {
+        "text": "negative inside the circle resulting in",
+        "start": 687.0,
+        "duration": 4.62
+    },
+    {
+        "text": "Black to verify this let's take the",
+        "start": 689.04,
+        "duration": 4.5
+    },
+    {
+        "text": "absolute value of this distance using",
+        "start": 691.62,
+        "duration": 4.14
+    },
+    {
+        "text": "the ABS function this will convert the",
+        "start": 693.54,
+        "duration": 4.38
+    },
+    {
+        "text": "negative values to positive and now we",
+        "start": 695.76,
+        "duration": 4.319
+    },
+    {
+        "text": "can observe that the distance increases",
+        "start": 697.92,
+        "duration": 3.9
+    },
+    {
+        "text": "as we move further away from the",
+        "start": 700.079,
+        "duration": 4.141
+    },
+    {
+        "text": "circle's Edge in both directions to",
+        "start": 701.82,
+        "duration": 4.079
+    },
+    {
+        "text": "achieve a sharper transition we can",
+        "start": 704.22,
+        "duration": 4.32
+    },
+    {
+        "text": "utilize the step function it accepts two",
+        "start": 705.899,
+        "duration": 5.341
+    },
+    {
+        "text": "input parameters a threshold and a value",
+        "start": 708.54,
+        "duration": 5.1
+    },
+    {
+        "text": "and its output can only have two states",
+        "start": 711.24,
+        "duration": 5.219
+    },
+    {
+        "text": "it will always return 0 when the value",
+        "start": 713.64,
+        "duration": 4.86
+    },
+    {
+        "text": "is less than the threshold and one",
+        "start": 716.459,
+        "duration": 4.32
+    },
+    {
+        "text": "otherwise by applying the step function",
+        "start": 718.5,
+        "duration": 4.74
+    },
+    {
+        "text": "to the D value with a threshold of 0.1",
+        "start": 720.779,
+        "duration": 5.461
+    },
+    {
+        "text": "all pixels with a d value less than 0.1",
+        "start": 723.24,
+        "duration": 5.4
+    },
+    {
+        "text": "will be assigned the color black while",
+        "start": 726.24,
+        "duration": 4.14
+    },
+    {
+        "text": "all other pixels will be assigned the",
+        "start": 728.64,
+        "duration": 4.139
+    },
+    {
+        "text": "color white creating a distinct ring",
+        "start": 730.38,
+        "duration": 4.92
+    },
+    {
+        "text": "shape however if we want a smoother",
+        "start": 732.779,
+        "duration": 4.68
+    },
+    {
+        "text": "transition between black and white we",
+        "start": 735.3,
+        "duration": 4.2
+    },
+    {
+        "text": "can utilize the wonderful and magical",
+        "start": 737.459,
+        "duration": 4.38
+    },
+    {
+        "text": "smooth step function it is similar to",
+        "start": 739.5,
+        "duration": 3.899
+    },
+    {
+        "text": "the step function but this time takes",
+        "start": 741.839,
+        "duration": 4.201
+    },
+    {
+        "text": "two threshold values it assigns the",
+        "start": 743.399,
+        "duration": 4.5
+    },
+    {
+        "text": "color black when the parameter is below",
+        "start": 746.04,
+        "duration": 4.14
+    },
+    {
+        "text": "the first threshold and white when it",
+        "start": 747.899,
+        "duration": 4.38
+    },
+    {
+        "text": "exceeds the second threshold",
+        "start": 750.18,
+        "duration": 4.68
+    },
+    {
+        "text": "within the threshold range it smoothly",
+        "start": 752.279,
+        "duration": 5.161
+    },
+    {
+        "text": "interpolates the values between 0 and 1.",
+        "start": 754.86,
+        "duration": 4.74
+    },
+    {
+        "text": "this gives us complete control over the",
+        "start": 757.44,
+        "duration": 4.62
+    },
+    {
+        "text": "range and sharpness of the transition by",
+        "start": 759.6,
+        "duration": 4.679
+    },
+    {
+        "text": "using this function we can achieve a",
+        "start": 762.06,
+        "duration": 3.899
+    },
+    {
+        "text": "seamless gradient from black to white",
+        "start": 764.279,
+        "duration": 5.461
+    },
+    {
+        "text": "between the values of 0 and 0.1",
+        "start": 765.959,
+        "duration": 6.661
+    },
+    {
+        "text": "now instead of subtracting 0.5 from the",
+        "start": 769.74,
+        "duration": 4.92
+    },
+    {
+        "text": "original distance I will apply the sine",
+        "start": 772.62,
+        "duration": 3.839
+    },
+    {
+        "text": "function to it in order to create a",
+        "start": 774.66,
+        "duration": 4.08
+    },
+    {
+        "text": "radial repetition of the Rings currently",
+        "start": 776.459,
+        "duration": 4.32
+    },
+    {
+        "text": "it only displays a single dot because",
+        "start": 778.74,
+        "duration": 4.86
+    },
+    {
+        "text": "the sign of a value between 0 and 1 is",
+        "start": 780.779,
+        "duration": 4.261
+    },
+    {
+        "text": "very close to the original value",
+        "start": 783.6,
+        "duration": 4.56
+    },
+    {
+        "text": "resulting in minimal change however when",
+        "start": 785.04,
+        "duration": 5.039
+    },
+    {
+        "text": "we increase the frequency of the input",
+        "start": 788.16,
+        "duration": 4.14
+    },
+    {
+        "text": "value we can better see the oscillating",
+        "start": 790.079,
+        "duration": 4.141
+    },
+    {
+        "text": "pattern of the sine function which",
+        "start": 792.3,
+        "duration": 5.159
+    },
+    {
+        "text": "ranges from -1 to 1 and it allows us to",
+        "start": 794.22,
+        "duration": 5.16
+    },
+    {
+        "text": "generate repeating rings around the",
+        "start": 797.459,
+        "duration": 3.781
+    },
+    {
+        "text": "center of the image note that",
+        "start": 799.38,
+        "duration": 3.78
+    },
+    {
+        "text": "multiplying The Distance by 8 before",
+        "start": 801.24,
+        "duration": 4.5
+    },
+    {
+        "text": "applying the sine function stretches the",
+        "start": 803.16,
+        "duration": 4.56
+    },
+    {
+        "text": "space and Alters the color intensity",
+        "start": 805.74,
+        "duration": 4.2
+    },
+    {
+        "text": "requiring a corresponding division of",
+        "start": 807.72,
+        "duration": 4.679
+    },
+    {
+        "text": "the output by the same factor one",
+        "start": 809.94,
+        "duration": 4.199
+    },
+    {
+        "text": "interesting characteristic of the sine",
+        "start": 812.399,
+        "duration": 4.321
+    },
+    {
+        "text": "function is its repetitive nature by",
+        "start": 814.139,
+        "duration": 4.32
+    },
+    {
+        "text": "introducing a Time component and",
+        "start": 816.72,
+        "duration": 3.54
+    },
+    {
+        "text": "offsetting the distance before applying",
+        "start": 818.459,
+        "duration": 4.141
+    },
+    {
+        "text": "the sine function we can create an",
+        "start": 820.26,
+        "duration": 4.379
+    },
+    {
+        "text": "infinite Loop of rings that continuously",
+        "start": 822.6,
+        "duration": 3.96
+    },
+    {
+        "text": "shrink towards the center",
+        "start": 824.639,
+        "duration": 4.5
+    },
+    {
+        "text": "in this case I am utilizing a global",
+        "start": 826.56,
+        "duration": 5.04
+    },
+    {
+        "text": "constant called I time which is an ever",
+        "start": 829.139,
+        "duration": 4.32
+    },
+    {
+        "text": "increasing float representing the number",
+        "start": 831.6,
+        "duration": 3.66
+    },
+    {
+        "text": "of seconds that have passed since the",
+        "start": 833.459,
+        "duration": 3.661
+    },
+    {
+        "text": "beginning of the animation",
+        "start": 835.26,
+        "duration": 4.259
+    },
+    {
+        "text": "now that we have a moving pattern let's",
+        "start": 837.12,
+        "duration": 4.56
+    },
+    {
+        "text": "focus on improving the visual aspect in",
+        "start": 839.519,
+        "duration": 4.741
+    },
+    {
+        "text": "colors I really like to use neon colors",
+        "start": 841.68,
+        "duration": 5.219
+    },
+    {
+        "text": "and the inverse function 1 over X is",
+        "start": 844.26,
+        "duration": 4.259
+    },
+    {
+        "text": "perfect for achieving that aesthetic",
+        "start": 846.899,
+        "duration": 3.901
+    },
+    {
+        "text": "instead of calculating the final color",
+        "start": 848.519,
+        "duration": 4.681
+    },
+    {
+        "text": "using the smooth step function on the D",
+        "start": 850.8,
+        "duration": 5.82
+    },
+    {
+        "text": "value I will take the inverse of d as a",
+        "start": 853.2,
+        "duration": 5.579
+    },
+    {
+        "text": "result the screen will become entirely",
+        "start": 856.62,
+        "duration": 4.62
+    },
+    {
+        "text": "white so let's take a closer look at the",
+        "start": 858.779,
+        "duration": 3.841
+    },
+    {
+        "text": "graph of the function to understand",
+        "start": 861.24,
+        "duration": 4.02
+    },
+    {
+        "text": "what's happening the graph shows a curve",
+        "start": 862.62,
+        "duration": 4.5
+    },
+    {
+        "text": "with extremely high outputs for low",
+        "start": 865.26,
+        "duration": 4.319
+    },
+    {
+        "text": "input values that gradually diminishes",
+        "start": 867.12,
+        "duration": 4.68
+    },
+    {
+        "text": "as the values increase since we are",
+        "start": 869.579,
+        "duration": 4.32
+    },
+    {
+        "text": "working in clip space any output value",
+        "start": 871.8,
+        "duration": 3.96
+    },
+    {
+        "text": "greater than one will be displayed as",
+        "start": 873.899,
+        "duration": 4.021
+    },
+    {
+        "text": "white and the curve tells us that this",
+        "start": 875.76,
+        "duration": 4.019
+    },
+    {
+        "text": "is happening if we're taking the inverse",
+        "start": 877.92,
+        "duration": 3.84
+    },
+    {
+        "text": "of any number that is less than one",
+        "start": 879.779,
+        "duration": 4.56
+    },
+    {
+        "text": "however after passing through the sine",
+        "start": 881.76,
+        "duration": 4.92
+    },
+    {
+        "text": "and absolute functions D now ranges",
+        "start": 884.339,
+        "duration": 5.281
+    },
+    {
+        "text": "strictly from 0 to 1. consequently the",
+        "start": 886.68,
+        "duration": 5.219
+    },
+    {
+        "text": "output can only ever be white",
+        "start": 889.62,
+        "duration": 4.5
+    },
+    {
+        "text": "to address this issue we can scale down",
+        "start": 891.899,
+        "duration": 3.961
+    },
+    {
+        "text": "the inverse function to ensure that the",
+        "start": 894.12,
+        "duration": 3.719
+    },
+    {
+        "text": "falloff is visible within our desired",
+        "start": 895.86,
+        "duration": 4.68
+    },
+    {
+        "text": "range of 0 to 1.",
+        "start": 897.839,
+        "duration": 5.041
+    },
+    {
+        "text": "it's still a bit much so let's scale it",
+        "start": 900.54,
+        "duration": 4.68
+    },
+    {
+        "text": "down even further and now we can see a",
+        "start": 902.88,
+        "duration": 4.079
+    },
+    {
+        "text": "pleasant glow emanating from the Rings",
+        "start": 905.22,
+        "duration": 4.26
+    },
+    {
+        "text": "now let's introduce some color into the",
+        "start": 906.959,
+        "duration": 5.041
+    },
+    {
+        "text": "composition I will create a new vect-3",
+        "start": 909.48,
+        "duration": 4.68
+    },
+    {
+        "text": "variable that will initially contain Red",
+        "start": 912.0,
+        "duration": 4.68
+    },
+    {
+        "text": "by multiplying this color variable with",
+        "start": 914.16,
+        "duration": 4.799
+    },
+    {
+        "text": "the value of D and making it the new",
+        "start": 916.68,
+        "duration": 4.56
+    },
+    {
+        "text": "Shader output the black areas will",
+        "start": 918.959,
+        "duration": 4.62
+    },
+    {
+        "text": "remain black while the white areas will",
+        "start": 921.24,
+        "duration": 4.14
+    },
+    {
+        "text": "be tinted with the corresponding color",
+        "start": 923.579,
+        "duration": 5.041
+    },
+    {
+        "text": "value also here our calculations are not",
+        "start": 925.38,
+        "duration": 5.819
+    },
+    {
+        "text": "limited to the 0 1 range we can",
+        "start": 928.62,
+        "duration": 4.5
+    },
+    {
+        "text": "intensify the Colors by setting certain",
+        "start": 931.199,
+        "duration": 4.801
+    },
+    {
+        "text": "components to higher values in this case",
+        "start": 933.12,
+        "duration": 4.98
+    },
+    {
+        "text": "the blue channel has the highest value",
+        "start": 936.0,
+        "duration": 4.26
+    },
+    {
+        "text": "which produces a vibrant blue tint in",
+        "start": 938.1,
+        "duration": 4.32
+    },
+    {
+        "text": "the final result to add even more",
+        "start": 940.26,
+        "duration": 4.5
+    },
+    {
+        "text": "variety to the colors I will use a very",
+        "start": 942.42,
+        "duration": 4.26
+    },
+    {
+        "text": "nice function that you can also find on",
+        "start": 944.76,
+        "duration": 3.96
+    },
+    {
+        "text": "the previous website and that allows you",
+        "start": 946.68,
+        "duration": 3.839
+    },
+    {
+        "text": "to create infinitely various color",
+        "start": 948.72,
+        "duration": 3.299
+    },
+    {
+        "text": "gradients using the power of",
+        "start": 950.519,
+        "duration": 4.141
+    },
+    {
+        "text": "trigonometry it produces a color output",
+        "start": 952.019,
+        "duration": 5.041
+    },
+    {
+        "text": "based on four control parameters of type",
+        "start": 954.66,
+        "duration": 5.64
+    },
+    {
+        "text": "VEC 3 which are passed as inputs these",
+        "start": 957.06,
+        "duration": 5.16
+    },
+    {
+        "text": "per parameters dictate the composition",
+        "start": 960.3,
+        "duration": 3.899
+    },
+    {
+        "text": "of the gradient enabling you to",
+        "start": 962.22,
+        "duration": 3.6
+    },
+    {
+        "text": "customize the colors to suit your",
+        "start": 964.199,
+        "duration": 3.121
+    },
+    {
+        "text": "preferences",
+        "start": 965.82,
+        "duration": 3.42
+    },
+    {
+        "text": "while the function may appear complex",
+        "start": 967.32,
+        "duration": 4.68
+    },
+    {
+        "text": "with its total of 12 parameters another",
+        "start": 969.24,
+        "duration": 5.279
+    },
+    {
+        "text": "website exists that has a user-friendly",
+        "start": 972.0,
+        "duration": 4.8
+    },
+    {
+        "text": "interface allowing you to visually",
+        "start": 974.519,
+        "duration": 4.801
+    },
+    {
+        "text": "create your own palettes and gain a",
+        "start": 976.8,
+        "duration": 4.2
+    },
+    {
+        "text": "better understanding of how the function",
+        "start": 979.32,
+        "duration": 4.199
+    },
+    {
+        "text": "operates after playing for a bit I found",
+        "start": 981.0,
+        "duration": 4.74
+    },
+    {
+        "text": "a specific palette that I like and I can",
+        "start": 983.519,
+        "duration": 4.201
+    },
+    {
+        "text": "use the values provided at the bottom of",
+        "start": 985.74,
+        "duration": 4.62
+    },
+    {
+        "text": "the page to update my code these values",
+        "start": 987.72,
+        "duration": 5.46
+    },
+    {
+        "text": "correspond to the a b c and d parameters",
+        "start": 990.36,
+        "duration": 4.979
+    },
+    {
+        "text": "in our palette function instead of",
+        "start": 993.18,
+        "duration": 4.14
+    },
+    {
+        "text": "passing these parameters as inputs to",
+        "start": 995.339,
+        "duration": 3.661
+    },
+    {
+        "text": "the function I will declare them",
+        "start": 997.32,
+        "duration": 3.959
+    },
+    {
+        "text": "directly inside the function by creating",
+        "start": 999.0,
+        "duration": 4.5
+    },
+    {
+        "text": "four new vectors that correspond to the",
+        "start": 1001.279,
+        "duration": 4.8
+    },
+    {
+        "text": "palette I created with this modification",
+        "start": 1003.5,
+        "duration": 5.04
+    },
+    {
+        "text": "I can replace our constant color with",
+        "start": 1006.079,
+        "duration": 4.38
+    },
+    {
+        "text": "the palette function it takes our",
+        "start": 1008.54,
+        "duration": 3.599
+    },
+    {
+        "text": "original distance to the center of the",
+        "start": 1010.459,
+        "duration": 3.721
+    },
+    {
+        "text": "screen as input before any",
+        "start": 1012.139,
+        "duration": 4.44
+    },
+    {
+        "text": "Transformations this simple adjustment",
+        "start": 1014.18,
+        "duration": 4.74
+    },
+    {
+        "text": "already adds a captivating and dynamic",
+        "start": 1016.579,
+        "duration": 4.741
+    },
+    {
+        "text": "range of colors to our composition to",
+        "start": 1018.92,
+        "duration": 4.38
+    },
+    {
+        "text": "enhance readability I will hide the",
+        "start": 1021.32,
+        "duration": 3.599
+    },
+    {
+        "text": "palette function",
+        "start": 1023.3,
+        "duration": 3.659
+    },
+    {
+        "text": "afterward I will proceed to adjust the",
+        "start": 1024.919,
+        "duration": 4.14
+    },
+    {
+        "text": "input to the palette by adding a time",
+        "start": 1026.959,
+        "duration": 4.38
+    },
+    {
+        "text": "offset to it this modification will",
+        "start": 1029.059,
+        "duration": 4.14
+    },
+    {
+        "text": "bring additional dynamism to the colors",
+        "start": 1031.339,
+        "duration": 4.261
+    },
+    {
+        "text": "as the gradient will continuously shift",
+        "start": 1033.199,
+        "duration": 3.901
+    },
+    {
+        "text": "and evolve",
+        "start": 1035.6,
+        "duration": 3.479
+    },
+    {
+        "text": "now let's introduce spatial repetition",
+        "start": 1037.1,
+        "duration": 3.78
+    },
+    {
+        "text": "using the fract function which is",
+        "start": 1039.079,
+        "duration": 3.781
+    },
+    {
+        "text": "perfect for this purpose the fract",
+        "start": 1040.88,
+        "duration": 4.14
+    },
+    {
+        "text": "function simply Returns the fractional",
+        "start": 1042.86,
+        "duration": 4.62
+    },
+    {
+        "text": "part of its input extracting only the",
+        "start": 1045.02,
+        "duration": 4.92
+    },
+    {
+        "text": "digits after the decimal point as a",
+        "start": 1047.48,
+        "duration": 5.1
+    },
+    {
+        "text": "result its output ranges from zero to",
+        "start": 1049.94,
+        "duration": 4.8
+    },
+    {
+        "text": "one but even if the space has been",
+        "start": 1052.58,
+        "duration": 3.9
+    },
+    {
+        "text": "repeated it seems that something is not",
+        "start": 1054.74,
+        "duration": 4.2
+    },
+    {
+        "text": "working as expected to understand the",
+        "start": 1056.48,
+        "duration": 4.68
+    },
+    {
+        "text": "issue let's display back only the value",
+        "start": 1058.94,
+        "duration": 5.22
+    },
+    {
+        "text": "of our UV variable we successfully",
+        "start": 1061.16,
+        "duration": 4.86
+    },
+    {
+        "text": "achieved repetition by creating four",
+        "start": 1064.16,
+        "duration": 3.66
+    },
+    {
+        "text": "smaller versions of our original UV",
+        "start": 1066.02,
+        "duration": 4.86
+    },
+    {
+        "text": "coordinates however each repetition is",
+        "start": 1067.82,
+        "duration": 5.219
+    },
+    {
+        "text": "now confined within the zero one range",
+        "start": 1070.88,
+        "duration": 4.44
+    },
+    {
+        "text": "instead of the desired clip space",
+        "start": 1073.039,
+        "duration": 4.5
+    },
+    {
+        "text": "to resolve this we can apply the same",
+        "start": 1075.32,
+        "duration": 5.219
+    },
+    {
+        "text": "solution as before scaling the UVS first",
+        "start": 1077.539,
+        "duration": 5.941
+    },
+    {
+        "text": "and then subtracting 0.5 to Center them",
+        "start": 1080.539,
+        "duration": 5.041
+    },
+    {
+        "text": "we finally have nicely repeated the",
+        "start": 1083.48,
+        "duration": 4.38
+    },
+    {
+        "text": "space and we can also shorten all these",
+        "start": 1085.58,
+        "duration": 4.14
+    },
+    {
+        "text": "operations into a single line for",
+        "start": 1087.86,
+        "duration": 2.819
+    },
+    {
+        "text": "brevity",
+        "start": 1089.72,
+        "duration": 3.42
+    },
+    {
+        "text": "now D represents the local distance",
+        "start": 1090.679,
+        "duration": 4.141
+    },
+    {
+        "text": "relative to the center of each",
+        "start": 1093.14,
+        "duration": 3.779
+    },
+    {
+        "text": "repetition but I'd like to keep track of",
+        "start": 1094.82,
+        "duration": 3.84
+    },
+    {
+        "text": "the original distance to the center of",
+        "start": 1096.919,
+        "duration": 4.38
+    },
+    {
+        "text": "the canvas I will create a new vect2",
+        "start": 1098.66,
+        "duration": 5.16
+    },
+    {
+        "text": "called uv0 and assign it the value of",
+        "start": 1101.299,
+        "duration": 4.321
+    },
+    {
+        "text": "our UV coordinates before space",
+        "start": 1103.82,
+        "duration": 4.14
+    },
+    {
+        "text": "repetition has been applied this will",
+        "start": 1105.62,
+        "duration": 4.32
+    },
+    {
+        "text": "allow us to replace D inside the palette",
+        "start": 1107.96,
+        "duration": 3.66
+    },
+    {
+        "text": "by the length of our original UV",
+        "start": 1109.94,
+        "duration": 3.479
+    },
+    {
+        "text": "coordinates which will break the local",
+        "start": 1111.62,
+        "duration": 3.72
+    },
+    {
+        "text": "gradient repetition",
+        "start": 1113.419,
+        "duration": 3.961
+    },
+    {
+        "text": "it's now time to add the final touch",
+        "start": 1115.34,
+        "duration": 3.719
+    },
+    {
+        "text": "that will give our composition its",
+        "start": 1117.38,
+        "duration": 4.2
+    },
+    {
+        "text": "fractal appearance iterations before we",
+        "start": 1119.059,
+        "duration": 4.261
+    },
+    {
+        "text": "proceed let's slightly rewrite the code",
+        "start": 1121.58,
+        "duration": 3.959
+    },
+    {
+        "text": "for what will follow up I will create a",
+        "start": 1123.32,
+        "duration": 4.14
+    },
+    {
+        "text": "new vect-3 variable called final color",
+        "start": 1125.539,
+        "duration": 4.441
+    },
+    {
+        "text": "and initialize it with black instead of",
+        "start": 1127.46,
+        "duration": 4.98
+    },
+    {
+        "text": "updating the call Value directly I will",
+        "start": 1129.98,
+        "duration": 4.319
+    },
+    {
+        "text": "add the result of this operation to our",
+        "start": 1132.44,
+        "duration": 3.9
+    },
+    {
+        "text": "new color variable finally we will",
+        "start": 1134.299,
+        "duration": 4.021
+    },
+    {
+        "text": "output this final color as the result of",
+        "start": 1136.34,
+        "duration": 4.079
+    },
+    {
+        "text": "our Shader this modification doesn't",
+        "start": 1138.32,
+        "duration": 4.38
+    },
+    {
+        "text": "change the visuals but it sets the stage",
+        "start": 1140.419,
+        "duration": 4.861
+    },
+    {
+        "text": "for adding iterations to our code to",
+        "start": 1142.7,
+        "duration": 5.099
+    },
+    {
+        "text": "achieve this we will utilize a for Loop",
+        "start": 1145.28,
+        "duration": 4.74
+    },
+    {
+        "text": "which is a common algorithmic structure",
+        "start": 1147.799,
+        "duration": 4.561
+    },
+    {
+        "text": "found in many programming languages that",
+        "start": 1150.02,
+        "duration": 4.74
+    },
+    {
+        "text": "allows us to repeat instructions we will",
+        "start": 1152.36,
+        "duration": 4.74
+    },
+    {
+        "text": "encapsulate our entire color calculation",
+        "start": 1154.76,
+        "duration": 5.22
+    },
+    {
+        "text": "code within this loop at this stage this",
+        "start": 1157.1,
+        "duration": 4.92
+    },
+    {
+        "text": "simple Loop won't produce any Visible",
+        "start": 1159.98,
+        "duration": 4.319
+    },
+    {
+        "text": "Changes in the visuals as it will exit",
+        "start": 1162.02,
+        "duration": 5.039
+    },
+    {
+        "text": "after just one iteration by increasing",
+        "start": 1164.299,
+        "duration": 4.921
+    },
+    {
+        "text": "the number of iterations we can observe",
+        "start": 1167.059,
+        "duration": 4.261
+    },
+    {
+        "text": "the emergence of additional layers and",
+        "start": 1169.22,
+        "duration": 6.199
+    },
+    {
+        "text": "intricate details in our fractal pattern",
+        "start": 1171.32,
+        "duration": 4.099
+    },
+    {
+        "text": "however as the complexity intensifies it",
+        "start": 1175.58,
+        "duration": 5.04
+    },
+    {
+        "text": "may become visually overwhelming to",
+        "start": 1178.58,
+        "duration": 3.78
+    },
+    {
+        "text": "mitigate this I will reduce the",
+        "start": 1180.62,
+        "duration": 4.26
+    },
+    {
+        "text": "frequency of the time offset iterating",
+        "start": 1182.36,
+        "duration": 4.62
+    },
+    {
+        "text": "this code generates interesting patterns",
+        "start": 1184.88,
+        "duration": 4.5
+    },
+    {
+        "text": "because each iteration involves scaling",
+        "start": 1186.98,
+        "duration": 4.319
+    },
+    {
+        "text": "and repeating the space using the fract",
+        "start": 1189.38,
+        "duration": 4.14
+    },
+    {
+        "text": "function and adds the resulting colors",
+        "start": 1191.299,
+        "duration": 4.801
+    },
+    {
+        "text": "together however the perfect matching of",
+        "start": 1193.52,
+        "duration": 4.5
+    },
+    {
+        "text": "repetitions caused by multiplying by",
+        "start": 1196.1,
+        "duration": 4.319
+    },
+    {
+        "text": "exactly two makes these repetitions",
+        "start": 1198.02,
+        "duration": 4.56
+    },
+    {
+        "text": "match up a bit too well to introduce",
+        "start": 1200.419,
+        "duration": 4.021
+    },
+    {
+        "text": "more visual interest I will break this",
+        "start": 1202.58,
+        "duration": 3.959
+    },
+    {
+        "text": "Symmetry by multiplying with a decimal",
+        "start": 1204.44,
+        "duration": 4.82
+    },
+    {
+        "text": "number instead",
+        "start": 1206.539,
+        "duration": 2.721
+    },
+    {
+        "text": "I will make use of the exponential",
+        "start": 1209.36,
+        "duration": 3.54
+    },
+    {
+        "text": "function to increase the variations",
+        "start": 1211.28,
+        "duration": 4.5
+    },
+    {
+        "text": "further I will multiply D which is the",
+        "start": 1212.9,
+        "duration": 4.44
+    },
+    {
+        "text": "local distance to the center of each",
+        "start": 1215.78,
+        "duration": 3.899
+    },
+    {
+        "text": "repetition by an exponential function",
+        "start": 1217.34,
+        "duration": 4.38
+    },
+    {
+        "text": "depending on the global distance to the",
+        "start": 1219.679,
+        "duration": 4.261
+    },
+    {
+        "text": "center of the canvas to try and",
+        "start": 1221.72,
+        "duration": 3.9
+    },
+    {
+        "text": "understand how this works I will make",
+        "start": 1223.94,
+        "duration": 3.72
+    },
+    {
+        "text": "use of yet another website called graph",
+        "start": 1225.62,
+        "duration": 4.02
+    },
+    {
+        "text": "toy that was specifically designed to",
+        "start": 1227.66,
+        "duration": 4.56
+    },
+    {
+        "text": "graph glsl functions I will display the",
+        "start": 1229.64,
+        "duration": 4.38
+    },
+    {
+        "text": "identity function as a reference along",
+        "start": 1232.22,
+        "duration": 4.02
+    },
+    {
+        "text": "with the exponential function actually",
+        "start": 1234.02,
+        "duration": 4.2
+    },
+    {
+        "text": "we're interested in the exponential of",
+        "start": 1236.24,
+        "duration": 4.74
+    },
+    {
+        "text": "negative X we can see that it displays a",
+        "start": 1238.22,
+        "duration": 4.8
+    },
+    {
+        "text": "similar Behavior to 1 over X that we",
+        "start": 1240.98,
+        "duration": 4.26
+    },
+    {
+        "text": "used earlier but this time doesn't go to",
+        "start": 1243.02,
+        "duration": 4.92
+    },
+    {
+        "text": "Infinity at zero by multiplying the",
+        "start": 1245.24,
+        "duration": 5.1
+    },
+    {
+        "text": "original x value with this function we",
+        "start": 1247.94,
+        "duration": 4.26
+    },
+    {
+        "text": "introduce a smooth and distinctive",
+        "start": 1250.34,
+        "duration": 4.26
+    },
+    {
+        "text": "Behavior to our final curve which blends",
+        "start": 1252.2,
+        "duration": 3.9
+    },
+    {
+        "text": "well with the other effects in our",
+        "start": 1254.6,
+        "duration": 3.78
+    },
+    {
+        "text": "current animation considering the",
+        "start": 1256.1,
+        "duration": 4.26
+    },
+    {
+        "text": "current brightness intensity I will",
+        "start": 1258.38,
+        "duration": 3.48
+    },
+    {
+        "text": "further reduce the fall off of the",
+        "start": 1260.36,
+        "duration": 3.24
+    },
+    {
+        "text": "inverse function to achieve a more",
+        "start": 1261.86,
+        "duration": 3.059
+    },
+    {
+        "text": "balanced effect",
+        "start": 1263.6,
+        "duration": 3.84
+    },
+    {
+        "text": "additionally let's explore the idea of",
+        "start": 1264.919,
+        "duration": 4.441
+    },
+    {
+        "text": "incorporating I into the loops",
+        "start": 1267.44,
+        "duration": 3.9
+    },
+    {
+        "text": "calculations this will introduce",
+        "start": 1269.36,
+        "duration": 4.559
+    },
+    {
+        "text": "additional variation to each layer to",
+        "start": 1271.34,
+        "duration": 4.74
+    },
+    {
+        "text": "achieve this I will include I as part of",
+        "start": 1273.919,
+        "duration": 3.901
+    },
+    {
+        "text": "the input to our color palette function",
+        "start": 1276.08,
+        "duration": 4.14
+    },
+    {
+        "text": "resulting in slight color offsets after",
+        "start": 1277.82,
+        "duration": 4.979
+    },
+    {
+        "text": "each iteration with the improved visual",
+        "start": 1280.22,
+        "duration": 4.92
+    },
+    {
+        "text": "quality I believe it is appropriate to",
+        "start": 1282.799,
+        "duration": 4.201
+    },
+    {
+        "text": "introduce an additional iteration to",
+        "start": 1285.14,
+        "duration": 4.44
+    },
+    {
+        "text": "enhance the creation of smaller details",
+        "start": 1287.0,
+        "duration": 5.22
+    },
+    {
+        "text": "as a final touch let's utilize the power",
+        "start": 1289.58,
+        "duration": 4.74
+    },
+    {
+        "text": "function to enhance the overall contrast",
+        "start": 1292.22,
+        "duration": 3.24
+    },
+    {
+        "text": "of the image",
+        "start": 1294.32,
+        "duration": 4.2
+    },
+    {
+        "text": "when the input ranges from 0 to 1 the",
+        "start": 1295.46,
+        "duration": 5.219
+    },
+    {
+        "text": "pow function effectively accentuates the",
+        "start": 1298.52,
+        "duration": 4.2
+    },
+    {
+        "text": "darker colors closer to zero while",
+        "start": 1300.679,
+        "duration": 3.721
+    },
+    {
+        "text": "having a lesser effect on the lighter",
+        "start": 1302.72,
+        "duration": 4.02
+    },
+    {
+        "text": "Shades although taking the power of two",
+        "start": 1304.4,
+        "duration": 4.98
+    },
+    {
+        "text": "may seem excessive smaller values such",
+        "start": 1306.74,
+        "duration": 5.52
+    },
+    {
+        "text": "as 1.2 can significantly improve the",
+        "start": 1309.38,
+        "duration": 4.799
+    },
+    {
+        "text": "contrast and visual impact of the",
+        "start": 1312.26,
+        "duration": 3.0
+    },
+    {
+        "text": "composition",
+        "start": 1314.179,
+        "duration": 3.421
+    },
+    {
+        "text": "we could go on and on introducing new",
+        "start": 1315.26,
+        "duration": 3.96
+    },
+    {
+        "text": "functions and new variations to our",
+        "start": 1317.6,
+        "duration": 4.079
+    },
+    {
+        "text": "animation as the glsl language offers",
+        "start": 1319.22,
+        "duration": 4.92
+    },
+    {
+        "text": "Limitless possibilities but I'm happy",
+        "start": 1321.679,
+        "duration": 4.801
+    },
+    {
+        "text": "with these results and sometimes it is",
+        "start": 1324.14,
+        "duration": 4.2
+    },
+    {
+        "text": "also important to recognize when to",
+        "start": 1326.48,
+        "duration": 4.319
+    },
+    {
+        "text": "pause take a moment to appreciate what",
+        "start": 1328.34,
+        "duration": 4.5
+    },
+    {
+        "text": "we have created reflect on what we have",
+        "start": 1330.799,
+        "duration": 4.321
+    },
+    {
+        "text": "learned and approach new ideas with a",
+        "start": 1332.84,
+        "duration": 3.46
+    },
+    {
+        "text": "fresh and blank canvas",
+        "start": 1335.12,
+        "duration": 10.14
+    },
+    {
+        "text": "[Music]",
+        "start": 1336.3,
+        "duration": 8.96
+    },
+    {
+        "text": "[Music]",
+        "start": 1349.5,
+        "duration": 6.52
+    },
+    {
+        "text": "thank you",
+        "start": 1356.32,
+        "duration": 3.54
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "text": "This is a message from Tom Kaitchuck \na member of the rust community. ",
+        "start": 0.03,
+        "duration": 3.81
+    },
+    {
+        "text": "In computer science when a problem is \nsolved the solution can provide a new  ",
+        "start": 3.84,
+        "duration": 4.2
+    },
+    {
+        "text": "level of abstraction and future programs can \nbe built without understanding the problem.",
+        "start": 8.04,
+        "duration": 5.46
+    },
+    {
+        "text": "Of course, if the problem isn't really solved \na different manifestation of the same problem  ",
+        "start": 13.5,
+        "duration": 5.61
+    },
+    {
+        "text": "appears in the next level of abstraction.\nFor the past 50 years a defining problem  ",
+        "start": 19.11,
+        "duration": 5.07
+    },
+    {
+        "text": "in computer programming has been \nmanaging a shared mutable state. ",
+        "start": 24.18,
+        "duration": 4.02
+    },
+    {
+        "text": "That is data which can change, \nbut is used in multiple places. ",
+        "start": 28.2,
+        "duration": 4.44
+    },
+    {
+        "text": "Functional languages have attempted to \navoid this by preventing mutability. ",
+        "start": 32.64,
+        "duration": 4.44
+    },
+    {
+        "text": "Object-oriented languages have attempted to avoid  ",
+        "start": 37.08,
+        "duration": 2.88
+    },
+    {
+        "text": "it by encapsulating state \nin classes to limit sharing. ",
+        "start": 39.96,
+        "duration": 4.14
+    },
+    {
+        "text": "Neither of these approaches solves \nthe root problem, as a result,  ",
+        "start": 44.1,
+        "duration": 3.75
+    },
+    {
+        "text": "it has cropped up in a wide variety of \nsurprising ways: security vulnerabilities,  ",
+        "start": 47.85,
+        "duration": 4.71
+    },
+    {
+        "text": "the need for garbage collection, data races, null \npointer exceptions, and performance problems. ",
+        "start": 52.56,
+        "duration": 6.09
+    },
+    {
+        "text": "The first programming language to \ndirectly solve this problem is Rust. ",
+        "start": 58.65,
+        "duration": 3.57
+    },
+    {
+        "text": "Because of this, code written in Rust can \nhave; memory safety without garbage collection,  ",
+        "start": 62.22,
+        "duration": 5.64
+    },
+    {
+        "text": "concurrency without race conditions, and \nperformance without compromising safety.",
+        "start": 67.86,
+        "duration": 4.83
+    },
+    {
+        "text": "Rust is a non-commercial open-source \ncommunity driven programming language. ",
+        "start": 72.69,
+        "duration": 4.2
+    },
+    {
+        "text": "The Rust community is open and \nwelcoming to people of all:  ",
+        "start": 76.89,
+        "duration": 3.57
+    },
+    {
+        "text": "genders, sexual orientations, disabilities, \nethnicities, religions, and skill levels.",
+        "start": 80.46,
+        "duration": 4.95
+    },
+    {
+        "text": "Their website rust-lang.org can \npoint you to people who would  ",
+        "start": 85.41,
+        "duration": 4.2
+    },
+    {
+        "text": "be happy to help you level up your programming.",
+        "start": 89.61,
+        "duration": 2.46
+    }
+]

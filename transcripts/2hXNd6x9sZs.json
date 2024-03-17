@@ -1,0 +1,1537 @@
+[
+    {
+        "text": "hi friends my name is Tris and this is",
+        "start": 0.48,
+        "duration": 3.54
+    },
+    {
+        "text": "no boilerplate focusing on Fast",
+        "start": 2.52,
+        "duration": 4.259
+    },
+    {
+        "text": "technical videos this is my guide on how",
+        "start": 4.02,
+        "duration": 4.44
+    },
+    {
+        "text": "to learn rust and is the way I teach it",
+        "start": 6.779,
+        "duration": 4.32
+    },
+    {
+        "text": "to my patreons in our mentoring sessions",
+        "start": 8.46,
+        "duration": 4.38
+    },
+    {
+        "text": "I have a lot of tips on how to get up to",
+        "start": 11.099,
+        "duration": 3.601
+    },
+    {
+        "text": "speed fast and we'll start with the",
+        "start": 12.84,
+        "duration": 3.96
+    },
+    {
+        "text": "primary sources everything you see in",
+        "start": 14.7,
+        "duration": 3.419
+    },
+    {
+        "text": "this video from the script to the images",
+        "start": 16.8,
+        "duration": 2.76
+    },
+    {
+        "text": "are part of a markdown document",
+        "start": 18.119,
+        "duration": 2.881
+    },
+    {
+        "text": "available on GitHub under a public",
+        "start": 19.56,
+        "duration": 4.799
+    },
+    {
+        "text": "domain license rust isn't difficult it's",
+        "start": 21.0,
+        "duration": 6.18
+    },
+    {
+        "text": "unfamiliar this is the first lesson you",
+        "start": 24.359,
+        "duration": 4.201
+    },
+    {
+        "text": "may have noticed that my videos are",
+        "start": 27.18,
+        "duration": 3.839
+    },
+    {
+        "text": "mostly hype by Design most comments on",
+        "start": 28.56,
+        "duration": 4.26
+    },
+    {
+        "text": "my videos are by total rust to newbies",
+        "start": 31.019,
+        "duration": 3.841
+    },
+    {
+        "text": "some are even new to programming and yet",
+        "start": 32.82,
+        "duration": 4.38
+    },
+    {
+        "text": "are so excited by what they see if you",
+        "start": 34.86,
+        "duration": 3.9
+    },
+    {
+        "text": "don't yet understand rust and someone",
+        "start": 37.2,
+        "duration": 4.44
+    },
+    {
+        "text": "explains it clearly as I try to it seems",
+        "start": 38.76,
+        "duration": 5.76
+    },
+    {
+        "text": "like magic rust is the 19th most popular",
+        "start": 41.64,
+        "duration": 4.62
+    },
+    {
+        "text": "language according to GitHub projects",
+        "start": 44.52,
+        "duration": 4.379
+    },
+    {
+        "text": "and stack Overflow tags but the scale is",
+        "start": 46.26,
+        "duration": 4.799
+    },
+    {
+        "text": "not linear there is a lot of way to do",
+        "start": 48.899,
+        "duration": 3.84
+    },
+    {
+        "text": "if it is not to suffer the same fate as",
+        "start": 51.059,
+        "duration": 4.621
+    },
+    {
+        "text": "Haskell and common lisp I want rust to",
+        "start": 52.739,
+        "duration": 5.881
+    },
+    {
+        "text": "achieve escape velocity back in 2020 I",
+        "start": 55.68,
+        "duration": 5.1
+    },
+    {
+        "text": "crashed out of learning rust Twice first",
+        "start": 58.62,
+        "duration": 3.599
+    },
+    {
+        "text": "time due to multiple string types",
+        "start": 60.78,
+        "duration": 3.18
+    },
+    {
+        "text": "Pascal's biggest mistake made again I",
+        "start": 62.219,
+        "duration": 3.661
+    },
+    {
+        "text": "thought to myself and the second due to",
+        "start": 63.96,
+        "duration": 3.78
+    },
+    {
+        "text": "lifetimes at the time I had a great",
+        "start": 65.88,
+        "duration": 3.84
+    },
+    {
+        "text": "mentor shout out to Alex who picked me",
+        "start": 67.74,
+        "duration": 3.9
+    },
+    {
+        "text": "up and helped me back on the path most",
+        "start": 69.72,
+        "duration": 3.899
+    },
+    {
+        "text": "people don't have this luxury they need",
+        "start": 71.64,
+        "duration": 3.479
+    },
+    {
+        "text": "the excitement that I try to help with",
+        "start": 73.619,
+        "duration": 3.54
+    },
+    {
+        "text": "in my hype videos to break through I",
+        "start": 75.119,
+        "duration": 3.481
+    },
+    {
+        "text": "will eventually run out of hype topics",
+        "start": 77.159,
+        "duration": 3.061
+    },
+    {
+        "text": "and move on to slightly more detail but",
+        "start": 78.6,
+        "duration": 3.54
+    },
+    {
+        "text": "first there's a few million developers I",
+        "start": 80.22,
+        "duration": 4.68
+    },
+    {
+        "text": "want to send to rustup.rs let's start",
+        "start": 82.14,
+        "duration": 5.28
+    },
+    {
+        "text": "there if you're on Mac or Linux or WSL",
+        "start": 84.9,
+        "duration": 4.259
+    },
+    {
+        "text": "run this command in the terminal if",
+        "start": 87.42,
+        "duration": 3.78
+    },
+    {
+        "text": "you're on Windows and can't run WSL then",
+        "start": 89.159,
+        "duration": 3.481
+    },
+    {
+        "text": "download and run the installer probably",
+        "start": 91.2,
+        "duration": 3.959
+    },
+    {
+        "text": "the 64-bit version Linux is the native",
+        "start": 92.64,
+        "duration": 4.019
+    },
+    {
+        "text": "operating system of the internet and I",
+        "start": 95.159,
+        "duration": 2.761
+    },
+    {
+        "text": "would recommend that Windows users",
+        "start": 96.659,
+        "duration": 3.061
+    },
+    {
+        "text": "install Microsoft's windows subsystem",
+        "start": 97.92,
+        "duration": 4.62
+    },
+    {
+        "text": "for Linux WSL to get access to this",
+        "start": 99.72,
+        "duration": 4.92
+    },
+    {
+        "text": "incredible world next you need the core",
+        "start": 102.54,
+        "duration": 3.96
+    },
+    {
+        "text": "transvert that is required learning for",
+        "start": 104.64,
+        "duration": 3.78
+    },
+    {
+        "text": "my students the three pillars of my",
+        "start": 106.5,
+        "duration": 4.259
+    },
+    {
+        "text": "recommended syllabus are one the rust",
+        "start": 108.42,
+        "duration": 4.14
+    },
+    {
+        "text": "programming language book which from now",
+        "start": 110.759,
+        "duration": 4.561
+    },
+    {
+        "text": "on we will just call the book 2. rust by",
+        "start": 112.56,
+        "duration": 4.98
+    },
+    {
+        "text": "example excellent supplementary reading",
+        "start": 115.32,
+        "duration": 4.74
+    },
+    {
+        "text": "and three rustlings and interactive",
+        "start": 117.54,
+        "duration": 4.38
+    },
+    {
+        "text": "codecata system one of the best I've",
+        "start": 120.06,
+        "duration": 3.9
+    },
+    {
+        "text": "ever used though there are many other",
+        "start": 121.92,
+        "duration": 4.14
+    },
+    {
+        "text": "great ways to learn rust I recommend",
+        "start": 123.96,
+        "duration": 4.139
+    },
+    {
+        "text": "starting with these three because they",
+        "start": 126.06,
+        "duration": 4.32
+    },
+    {
+        "text": "are so tightly bound together in a way",
+        "start": 128.099,
+        "duration": 4.741
+    },
+    {
+        "text": "you might have missed starting with",
+        "start": 130.38,
+        "duration": 4.499
+    },
+    {
+        "text": "rustlings it's written in almost the",
+        "start": 132.84,
+        "duration": 4.32
+    },
+    {
+        "text": "same order as the book this is by Design",
+        "start": 134.879,
+        "duration": 4.681
+    },
+    {
+        "text": "they are made to be consumed together",
+        "start": 137.16,
+        "duration": 5.4
+    },
+    {
+        "text": "rust by example is less linearly linked",
+        "start": 139.56,
+        "duration": 4.74
+    },
+    {
+        "text": "to the book though it's partially in the",
+        "start": 142.56,
+        "duration": 3.6
+    },
+    {
+        "text": "same order I read it as a supplement to",
+        "start": 144.3,
+        "duration": 4.019
+    },
+    {
+        "text": "the book it includes high level tips on",
+        "start": 146.16,
+        "duration": 3.9
+    },
+    {
+        "text": "idiomatic error handling how to organize",
+        "start": 148.319,
+        "duration": 3.181
+    },
+    {
+        "text": "your code into modules and testing",
+        "start": 150.06,
+        "duration": 3.78
+    },
+    {
+        "text": "strategies these are all covered in the",
+        "start": 151.5,
+        "duration": 4.44
+    },
+    {
+        "text": "book but rust by example is more",
+        "start": 153.84,
+        "duration": 5.28
+    },
+    {
+        "text": "opinionated on how to use them keep all",
+        "start": 155.94,
+        "duration": 4.799
+    },
+    {
+        "text": "three of these tools together",
+        "start": 159.12,
+        "duration": 3.119
+    },
+    {
+        "text": "we'll get back to the main quest in a",
+        "start": 160.739,
+        "duration": 3.241
+    },
+    {
+        "text": "moment but first a quiz from today's",
+        "start": 162.239,
+        "duration": 4.441
+    },
+    {
+        "text": "sponsor razor secure what data center",
+        "start": 163.98,
+        "duration": 4.8
+    },
+    {
+        "text": "travels at 100 miles an hour",
+        "start": 166.68,
+        "duration": 4.26
+    },
+    {
+        "text": "reconfigures every IP when it attaches",
+        "start": 168.78,
+        "duration": 4.319
+    },
+    {
+        "text": "or detaches to other data centers all",
+        "start": 170.94,
+        "duration": 3.78
+    },
+    {
+        "text": "without a reliable power source or",
+        "start": 173.099,
+        "duration": 3.301
+    },
+    {
+        "text": "internet connection and must never fail",
+        "start": 174.72,
+        "duration": 5.28
+    },
+    {
+        "text": "the answer a train Razer secure is a 50",
+        "start": 176.4,
+        "duration": 5.22
+    },
+    {
+        "text": "person startup bringing cutting-edge",
+        "start": 180.0,
+        "duration": 3.239
+    },
+    {
+        "text": "security Tech to the rapidly advancing",
+        "start": 181.62,
+        "duration": 3.899
+    },
+    {
+        "text": "world of rail they do this through a",
+        "start": 183.239,
+        "duration": 3.961
+    },
+    {
+        "text": "rust intrusion detection and monitoring",
+        "start": 185.519,
+        "duration": 3.541
+    },
+    {
+        "text": "agent running on board a cloud",
+        "start": 187.2,
+        "duration": 3.66
+    },
+    {
+        "text": "environment running kubernetes Python",
+        "start": 189.06,
+        "duration": 3.36
+    },
+    {
+        "text": "microservices and event-based data",
+        "start": 190.86,
+        "duration": 3.06
+    },
+    {
+        "text": "processing and a yorkto hardware",
+        "start": 192.42,
+        "duration": 3.36
+    },
+    {
+        "text": "platform running custom embedded Linux",
+        "start": 193.92,
+        "duration": 4.14
+    },
+    {
+        "text": "their team and customers span Europe and",
+        "start": 195.78,
+        "duration": 3.66
+    },
+    {
+        "text": "North America so if you've taken a train",
+        "start": 198.06,
+        "duration": 3.36
+    },
+    {
+        "text": "journey here then Razer secure security",
+        "start": 199.44,
+        "duration": 4.079
+    },
+    {
+        "text": "systems may have already kept you safe",
+        "start": 201.42,
+        "duration": 4.2
+    },
+    {
+        "text": "if you're excited by this challenge in",
+        "start": 203.519,
+        "duration": 3.72
+    },
+    {
+        "text": "Tech then they are very interested in",
+        "start": 205.62,
+        "duration": 3.72
+    },
+    {
+        "text": "speaking to you as they are hiring now",
+        "start": 207.239,
+        "duration": 4.681
+    },
+    {
+        "text": "the company is fully remote so wherever",
+        "start": 209.34,
+        "duration": 3.96
+    },
+    {
+        "text": "you are based they offer challenging",
+        "start": 211.92,
+        "duration": 3.179
+    },
+    {
+        "text": "work in an interesting field with some",
+        "start": 213.3,
+        "duration": 3.12
+    },
+    {
+        "text": "awesome technology and a highly",
+        "start": 215.099,
+        "duration": 3.121
+    },
+    {
+        "text": "collaborative team with flexible working",
+        "start": 216.42,
+        "duration": 3.72
+    },
+    {
+        "text": "practices find out more about jobs at",
+        "start": 218.22,
+        "duration": 4.32
+    },
+    {
+        "text": "Razer secure at razorskill.com forward",
+        "start": 220.14,
+        "duration": 4.679
+    },
+    {
+        "text": "slash careers my thanks to razor secure",
+        "start": 222.54,
+        "duration": 4.02
+    },
+    {
+        "text": "for their support of this channel back",
+        "start": 224.819,
+        "duration": 4.381
+    },
+    {
+        "text": "to the side quest this is ultra learning",
+        "start": 226.56,
+        "duration": 5.64
+    },
+    {
+        "text": "by Scott H young not sponsored a very",
+        "start": 229.2,
+        "duration": 4.56
+    },
+    {
+        "text": "good book on the meta process of",
+        "start": 232.2,
+        "duration": 3.72
+    },
+    {
+        "text": "learning to learn you should read it or",
+        "start": 233.76,
+        "duration": 4.38
+    },
+    {
+        "text": "listen to it on audiobook as I did in",
+        "start": 235.92,
+        "duration": 4.44
+    },
+    {
+        "text": "chapter 8 young highlights a study where",
+        "start": 238.14,
+        "duration": 4.019
+    },
+    {
+        "text": "it seemed that students who took the",
+        "start": 240.36,
+        "duration": 4.379
+    },
+    {
+        "text": "exam and failed before studying did far",
+        "start": 242.159,
+        "duration": 5.101
+    },
+    {
+        "text": "better than those who only studied and",
+        "start": 244.739,
+        "duration": 4.381
+    },
+    {
+        "text": "then took the exam he calls this",
+        "start": 247.26,
+        "duration": 4.74
+    },
+    {
+        "text": "procedure test to learn and it makes a",
+        "start": 249.12,
+        "duration": 5.039
+    },
+    {
+        "text": "lot of sense it's like placing a number",
+        "start": 252.0,
+        "duration": 4.079
+    },
+    {
+        "text": "of boxes in your mind labeled with the",
+        "start": 254.159,
+        "duration": 3.48
+    },
+    {
+        "text": "information that you would like to be",
+        "start": 256.079,
+        "duration": 4.261
+    },
+    {
+        "text": "there facts figures how lifetime",
+        "start": 257.639,
+        "duration": 5.161
+    },
+    {
+        "text": "annotations work etc then when you are",
+        "start": 260.34,
+        "duration": 4.2
+    },
+    {
+        "text": "studying later on you more readily",
+        "start": 262.8,
+        "duration": 3.3
+    },
+    {
+        "text": "absorb the information because you are",
+        "start": 264.54,
+        "duration": 4.08
+    },
+    {
+        "text": "already looking for it keep this in mind",
+        "start": 266.1,
+        "duration": 4.86
+    },
+    {
+        "text": "when I tell you my next tip I recommend",
+        "start": 268.62,
+        "duration": 4.079
+    },
+    {
+        "text": "reading the Rust book from cover to",
+        "start": 270.96,
+        "duration": 3.54
+    },
+    {
+        "text": "cover as fast as possible and without",
+        "start": 272.699,
+        "duration": 3.961
+    },
+    {
+        "text": "stopping to do the exercises if you come",
+        "start": 274.5,
+        "duration": 3.38
+    },
+    {
+        "text": "across something you don't understand",
+        "start": 276.66,
+        "duration": 3.66
+    },
+    {
+        "text": "mentally note it and move on to the next",
+        "start": 277.88,
+        "duration": 3.28
+    },
+    {
+        "text": "chapter",
+        "start": 280.32,
+        "duration": 2.7
+    },
+    {
+        "text": "the point is to pass the words through",
+        "start": 281.16,
+        "duration": 4.14
+    },
+    {
+        "text": "your eyeball compiler and not worry too",
+        "start": 283.02,
+        "duration": 4.44
+    },
+    {
+        "text": "much about how many errors you get then",
+        "start": 285.3,
+        "duration": 3.78
+    },
+    {
+        "text": "when you have finished go back to the",
+        "start": 287.46,
+        "duration": 2.88
+    },
+    {
+        "text": "start and work through at your normal",
+        "start": 289.08,
+        "duration": 2.82
+    },
+    {
+        "text": "Pace but read the Brown University",
+        "start": 290.34,
+        "duration": 3.9
+    },
+    {
+        "text": "version with interactive quizzes you can",
+        "start": 291.9,
+        "duration": 4.739
+    },
+    {
+        "text": "now install rustlings rustlings will",
+        "start": 294.24,
+        "duration": 3.66
+    },
+    {
+        "text": "check that you've got everything set up",
+        "start": 296.639,
+        "duration": 3.961
+    },
+    {
+        "text": "correctly get rust cargo the installer",
+        "start": 297.9,
+        "duration": 4.38
+    },
+    {
+        "text": "is a great sanity check to avoid pain",
+        "start": 300.6,
+        "duration": 4.08
+    },
+    {
+        "text": "later rustlings is a Code catastyle",
+        "start": 302.28,
+        "duration": 3.96
+    },
+    {
+        "text": "system that you can think of as a suite",
+        "start": 304.68,
+        "duration": 3.239
+    },
+    {
+        "text": "of failing unit tests that you slowly",
+        "start": 306.24,
+        "duration": 3.54
+    },
+    {
+        "text": "work through fixing in a test driven",
+        "start": 307.919,
+        "duration": 3.481
+    },
+    {
+        "text": "development way here is the first",
+        "start": 309.78,
+        "duration": 4.26
+    },
+    {
+        "text": "example fixing a hello world wrestlings",
+        "start": 311.4,
+        "duration": 4.68
+    },
+    {
+        "text": "starts out extremely simply and ramps up",
+        "start": 314.04,
+        "duration": 4.02
+    },
+    {
+        "text": "slowly even non-programmers could start",
+        "start": 316.08,
+        "duration": 3.899
+    },
+    {
+        "text": "this way and Veterans will speed through",
+        "start": 318.06,
+        "duration": 3.9
+    },
+    {
+        "text": "the early questions quickly though",
+        "start": 319.979,
+        "duration": 4.021
+    },
+    {
+        "text": "starting simple they follow the book all",
+        "start": 321.96,
+        "duration": 4.019
+    },
+    {
+        "text": "the way through lifetimes smart pointers",
+        "start": 324.0,
+        "duration": 4.199
+    },
+    {
+        "text": "and threads note that the rustling's",
+        "start": 325.979,
+        "duration": 3.601
+    },
+    {
+        "text": "Watcher the output of which we are",
+        "start": 328.199,
+        "duration": 3.241
+    },
+    {
+        "text": "seeing here has some extra functionality",
+        "start": 329.58,
+        "duration": 4.08
+    },
+    {
+        "text": "not just Auto refreshing output from the",
+        "start": 331.44,
+        "duration": 4.5
+    },
+    {
+        "text": "compiler each exercise has a hint",
+        "start": 333.66,
+        "duration": 4.56
+    },
+    {
+        "text": "accessed by simply typing hint into the",
+        "start": 335.94,
+        "duration": 4.5
+    },
+    {
+        "text": "Watcher as I did here rustlings",
+        "start": 338.22,
+        "duration": 5.52
+    },
+    {
+        "text": "exercises are Cutters Cutters a term",
+        "start": 340.44,
+        "duration": 5.16
+    },
+    {
+        "text": "borrowed from Japanese martial arts are",
+        "start": 343.74,
+        "duration": 3.72
+    },
+    {
+        "text": "something you practice over and over",
+        "start": 345.6,
+        "duration": 4.74
+    },
+    {
+        "text": "again to build muscle memory musicians",
+        "start": 347.46,
+        "duration": 5.1
+    },
+    {
+        "text": "do the same thing at time of writing",
+        "start": 350.34,
+        "duration": 4.74
+    },
+    {
+        "text": "there are 95 rustlings caters when",
+        "start": 352.56,
+        "duration": 4.02
+    },
+    {
+        "text": "you've done them all it is time to",
+        "start": 355.08,
+        "duration": 3.899
+    },
+    {
+        "text": "choose your favorites to redo regularly",
+        "start": 356.58,
+        "duration": 4.559
+    },
+    {
+        "text": "I recommend weekly keep your muscle",
+        "start": 358.979,
+        "duration": 5.581
+    },
+    {
+        "text": "memory Fresh side quest 3 Haskell rust",
+        "start": 361.139,
+        "duration": 5.4
+    },
+    {
+        "text": "is a hybrid imperative and functional",
+        "start": 364.56,
+        "duration": 3.78
+    },
+    {
+        "text": "language the compiler was originally",
+        "start": 366.539,
+        "duration": 3.781
+    },
+    {
+        "text": "written in O camel this means in",
+        "start": 368.34,
+        "duration": 3.72
+    },
+    {
+        "text": "addition to the punched card analog of",
+        "start": 370.32,
+        "duration": 4.319
+    },
+    {
+        "text": "statements we can also use many features",
+        "start": 372.06,
+        "duration": 4.62
+    },
+    {
+        "text": "of functional languages the most obvious",
+        "start": 374.639,
+        "duration": 4.021
+    },
+    {
+        "text": "of these is the pervasive use of the",
+        "start": 376.68,
+        "duration": 4.019
+    },
+    {
+        "text": "iterator pattern it is possible to write",
+        "start": 378.66,
+        "duration": 3.659
+    },
+    {
+        "text": "rust mostly in the way you've been",
+        "start": 380.699,
+        "duration": 4.021
+    },
+    {
+        "text": "writing python or JavaScript or Java but",
+        "start": 382.319,
+        "duration": 4.38
+    },
+    {
+        "text": "you'll get most out of it if you adopt",
+        "start": 384.72,
+        "duration": 3.479
+    },
+    {
+        "text": "the functional principles of higher",
+        "start": 386.699,
+        "duration": 3.901
+    },
+    {
+        "text": "order functions and immutability rust is",
+        "start": 388.199,
+        "duration": 4.381
+    },
+    {
+        "text": "flexible and doesn't force you to write",
+        "start": 390.6,
+        "duration": 4.5
+    },
+    {
+        "text": "in a functional style Haskell however is",
+        "start": 392.58,
+        "duration": 4.86
+    },
+    {
+        "text": "inflexible in the extreme and you have",
+        "start": 395.1,
+        "duration": 4.379
+    },
+    {
+        "text": "no choice but to learn it and learn it",
+        "start": 397.44,
+        "duration": 4.44
+    },
+    {
+        "text": "fast have a look at either learn your",
+        "start": 399.479,
+        "duration": 4.56
+    },
+    {
+        "text": "Haskell or real world Haskell or both",
+        "start": 401.88,
+        "duration": 4.259
+    },
+    {
+        "text": "again you can mostly read through these",
+        "start": 404.039,
+        "duration": 3.841
+    },
+    {
+        "text": "quickly your package manager will have",
+        "start": 406.139,
+        "duration": 3.961
+    },
+    {
+        "text": "the Haskell Rebel which is called ghci",
+        "start": 407.88,
+        "duration": 4.2
+    },
+    {
+        "text": "and any version it installs will be fine",
+        "start": 410.1,
+        "duration": 3.9
+    },
+    {
+        "text": "for experimentation learning Haskell",
+        "start": 412.08,
+        "duration": 3.78
+    },
+    {
+        "text": "will teach you about mapping filtering",
+        "start": 414.0,
+        "duration": 4.02
+    },
+    {
+        "text": "folding carrying matching and many other",
+        "start": 415.86,
+        "duration": 4.14
+    },
+    {
+        "text": "words to describe your algorithms in",
+        "start": 418.02,
+        "duration": 3.72
+    },
+    {
+        "text": "Rust which are abandoned in other",
+        "start": 420.0,
+        "duration": 4.319
+    },
+    {
+        "text": "languages that just use for loops and if",
+        "start": 421.74,
+        "duration": 4.799
+    },
+    {
+        "text": "statements you might even learn what a",
+        "start": 424.319,
+        "duration": 4.741
+    },
+    {
+        "text": "monad is a huge turn off for me coming",
+        "start": 426.539,
+        "duration": 5.821
+    },
+    {
+        "text": "from python was rust's syntax there's so",
+        "start": 429.06,
+        "duration": 4.919
+    },
+    {
+        "text": "much more than I was used to in other",
+        "start": 432.36,
+        "duration": 3.6
+    },
+    {
+        "text": "languages the compiler can't help you",
+        "start": 433.979,
+        "duration": 4.261
+    },
+    {
+        "text": "very much so moving fast and breaking",
+        "start": 435.96,
+        "duration": 4.38
+    },
+    {
+        "text": "things is the best way to develop any",
+        "start": 438.24,
+        "duration": 5.04
+    },
+    {
+        "text": "syntax gets in the way in Rust the",
+        "start": 440.34,
+        "duration": 5.22
+    },
+    {
+        "text": "compiler is your best friend but you",
+        "start": 443.28,
+        "duration": 4.859
+    },
+    {
+        "text": "must be nice to it for it to be nice to",
+        "start": 445.56,
+        "duration": 4.8
+    },
+    {
+        "text": "you here's how I think the difficulty in",
+        "start": 448.139,
+        "duration": 3.84
+    },
+    {
+        "text": "learning say JavaScript and rust",
+        "start": 450.36,
+        "duration": 3.3
+    },
+    {
+        "text": "compares to each other I've picked",
+        "start": 451.979,
+        "duration": 3.06
+    },
+    {
+        "text": "JavaScript because I want to make as",
+        "start": 453.66,
+        "duration": 3.0
+    },
+    {
+        "text": "many friends on the internet as possible",
+        "start": 455.039,
+        "duration": 3.66
+    },
+    {
+        "text": "but the general relationship is the same",
+        "start": 456.66,
+        "duration": 4.56
+    },
+    {
+        "text": "for Python and Java and many others too",
+        "start": 458.699,
+        "duration": 5.041
+    },
+    {
+        "text": "rust upfronts all the work that you",
+        "start": 461.22,
+        "duration": 4.08
+    },
+    {
+        "text": "would need to do in other languages",
+        "start": 463.74,
+        "duration": 4.019
+    },
+    {
+        "text": "later on to get scalability and",
+        "start": 465.3,
+        "duration": 4.86
+    },
+    {
+        "text": "performance and safety and in making you",
+        "start": 467.759,
+        "duration": 3.961
+    },
+    {
+        "text": "deal with them at the start the language",
+        "start": 470.16,
+        "duration": 3.659
+    },
+    {
+        "text": "debt doesn't spiral as you increase",
+        "start": 471.72,
+        "duration": 4.919
+    },
+    {
+        "text": "complexity in other languages simple",
+        "start": 473.819,
+        "duration": 5.22
+    },
+    {
+        "text": "things are easy and complex things are",
+        "start": 476.639,
+        "duration": 4.981
+    },
+    {
+        "text": "possible in Rust simple things are",
+        "start": 479.039,
+        "duration": 6.241
+    },
+    {
+        "text": "possible and complex things are easy and",
+        "start": 481.62,
+        "duration": 5.519
+    },
+    {
+        "text": "this is how it should be I don't care",
+        "start": 485.28,
+        "duration": 3.78
+    },
+    {
+        "text": "how easy it is to do simple things that",
+        "start": 487.139,
+        "duration": 3.96
+    },
+    {
+        "text": "doesn't impress me anymore I want a",
+        "start": 489.06,
+        "duration": 3.9
+    },
+    {
+        "text": "language that can stay by my side as I",
+        "start": 491.099,
+        "duration": 3.841
+    },
+    {
+        "text": "make extremely complex distributed",
+        "start": 492.96,
+        "duration": 3.9
+    },
+    {
+        "text": "systems that run at c-speed and don't",
+        "start": 494.94,
+        "duration": 4.319
+    },
+    {
+        "text": "wake me up at night keep in mind through",
+        "start": 496.86,
+        "duration": 4.44
+    },
+    {
+        "text": "all your early learning you only have to",
+        "start": 499.259,
+        "duration": 4.62
+    },
+    {
+        "text": "learn rust once JavaScript developers",
+        "start": 501.3,
+        "duration": 4.98
+    },
+    {
+        "text": "have to keep learning JavaScript every",
+        "start": 503.879,
+        "duration": 5.04
+    },
+    {
+        "text": "single day Edge case after Edge case",
+        "start": 506.28,
+        "duration": 4.68
+    },
+    {
+        "text": "after Edge case framework after",
+        "start": 508.919,
+        "duration": 3.961
+    },
+    {
+        "text": "framework to try and manage these edge",
+        "start": 510.96,
+        "duration": 5.28
+    },
+    {
+        "text": "cases it's exhausting rust offers",
+        "start": 512.88,
+        "duration": 5.7
+    },
+    {
+        "text": "another way but you have to work for it",
+        "start": 516.24,
+        "duration": 4.919
+    },
+    {
+        "text": "for example lifetime annotations specify",
+        "start": 518.58,
+        "duration": 5.16
+    },
+    {
+        "text": "how long a reference should live it's a",
+        "start": 521.159,
+        "duration": 4.141
+    },
+    {
+        "text": "minimum value that variables must live",
+        "start": 523.74,
+        "duration": 3.12
+    },
+    {
+        "text": "for before the borrow Checker knows it's",
+        "start": 525.3,
+        "duration": 3.18
+    },
+    {
+        "text": "safe to clean up this example is from",
+        "start": 526.86,
+        "duration": 3.539
+    },
+    {
+        "text": "chapter 10 of the book which states The",
+        "start": 528.48,
+        "duration": 3.66
+    },
+    {
+        "text": "Returned reference will be valid as long",
+        "start": 530.399,
+        "duration": 3.601
+    },
+    {
+        "text": "as both the parameters are valid we'll",
+        "start": 532.14,
+        "duration": 4.02
+    },
+    {
+        "text": "name the lifetime a and then add it to",
+        "start": 534.0,
+        "duration": 4.2
+    },
+    {
+        "text": "each reference it's very unfamiliar",
+        "start": 536.16,
+        "duration": 4.26
+    },
+    {
+        "text": "stuff right there's two ways to think",
+        "start": 538.2,
+        "duration": 5.16
+    },
+    {
+        "text": "about lifetimes as a liability or an",
+        "start": 540.42,
+        "duration": 5.039
+    },
+    {
+        "text": "asset I started off thinking about them",
+        "start": 543.36,
+        "duration": 4.26
+    },
+    {
+        "text": "as a liability something annoying I had",
+        "start": 545.459,
+        "duration": 4.5
+    },
+    {
+        "text": "to do to satisfy the compiler this is a",
+        "start": 547.62,
+        "duration": 4.44
+    },
+    {
+        "text": "totally fine way to start off with and I",
+        "start": 549.959,
+        "duration": 3.301
+    },
+    {
+        "text": "have some suggestions on how to learn",
+        "start": 552.06,
+        "duration": 4.56
+    },
+    {
+        "text": "lifetimes gradually in order one don't",
+        "start": 553.26,
+        "duration": 5.519
+    },
+    {
+        "text": "use references use ownership and share",
+        "start": 556.62,
+        "duration": 4.32
+    },
+    {
+        "text": "nothing passing variables into functions",
+        "start": 558.779,
+        "duration": 4.141
+    },
+    {
+        "text": "and if you need them later return them",
+        "start": 560.94,
+        "duration": 5.1
+    },
+    {
+        "text": "back out giving away ownership two copy",
+        "start": 562.92,
+        "duration": 5.099
+    },
+    {
+        "text": "and clone everything rust is 80 times",
+        "start": 566.04,
+        "duration": 3.66
+    },
+    {
+        "text": "faster than python you're probably not",
+        "start": 568.019,
+        "duration": 2.88
+    },
+    {
+        "text": "going to notice the performance hit",
+        "start": 569.7,
+        "duration": 3.78
+    },
+    {
+        "text": "three only use references when the",
+        "start": 570.899,
+        "duration": 4.56
+    },
+    {
+        "text": "compiler tells you to this will",
+        "start": 573.48,
+        "duration": 3.66
+    },
+    {
+        "text": "eventually teach you how to use them",
+        "start": 575.459,
+        "duration": 3.781
+    },
+    {
+        "text": "properly when you've done three a few",
+        "start": 577.14,
+        "duration": 4.56
+    },
+    {
+        "text": "times you're ready to move on the the",
+        "start": 579.24,
+        "duration": 3.539
+    },
+    {
+        "text": "intermediate way to think about",
+        "start": 581.7,
+        "duration": 2.819
+    },
+    {
+        "text": "lifetimes are not as an annoying piece",
+        "start": 582.779,
+        "duration": 4.141
+    },
+    {
+        "text": "of syntax but something to enrich the",
+        "start": 584.519,
+        "duration": 4.861
+    },
+    {
+        "text": "model of your data other languages allow",
+        "start": 586.92,
+        "duration": 4.979
+    },
+    {
+        "text": "you to model what your data is rust",
+        "start": 589.38,
+        "duration": 4.86
+    },
+    {
+        "text": "through lifetimes allows you to model",
+        "start": 591.899,
+        "duration": 5.221
+    },
+    {
+        "text": "when that's worth learning rust is",
+        "start": 594.24,
+        "duration": 4.56
+    },
+    {
+        "text": "shaping up to be the only language we",
+        "start": 597.12,
+        "duration": 3.06
+    },
+    {
+        "text": "may need for systems development",
+        "start": 598.8,
+        "duration": 2.82
+    },
+    {
+        "text": "front-end and back-end web development",
+        "start": 600.18,
+        "duration": 3.3
+    },
+    {
+        "text": "and bare metal too please ask any",
+        "start": 601.62,
+        "duration": 3.24
+    },
+    {
+        "text": "questions in the comments and I'll try",
+        "start": 603.48,
+        "duration": 3.96
+    },
+    {
+        "text": "to help and do join my Discord have fun",
+        "start": 604.86,
+        "duration": 4.68
+    },
+    {
+        "text": "talk to you next time if you would like",
+        "start": 607.44,
+        "duration": 3.66
+    },
+    {
+        "text": "to support my channel get early ad free",
+        "start": 609.54,
+        "duration": 3.479
+    },
+    {
+        "text": "and tracking free videos in VIP Discord",
+        "start": 611.1,
+        "duration": 3.84
+    },
+    {
+        "text": "access head to patreon.com forward slash",
+        "start": 613.019,
+        "duration": 3.541
+    },
+    {
+        "text": "no boilerplate if you're interested in",
+        "start": 614.94,
+        "duration": 3.18
+    },
+    {
+        "text": "transhumanism and hope Punk stories",
+        "start": 616.56,
+        "duration": 3.6
+    },
+    {
+        "text": "please check out my sci-fi podcast lost",
+        "start": 618.12,
+        "duration": 3.779
+    },
+    {
+        "text": "terminal or if urban fantasy is more",
+        "start": 620.16,
+        "duration": 3.48
+    },
+    {
+        "text": "your bag do listen to a strange and",
+        "start": 621.899,
+        "duration": 3.781
+    },
+    {
+        "text": "beautiful podcast I produce called modem",
+        "start": 623.64,
+        "duration": 3.66
+    },
+    {
+        "text": "Prometheus transcripts and compile",
+        "start": 625.68,
+        "duration": 2.82
+    },
+    {
+        "text": "checked markdown source code are",
+        "start": 627.3,
+        "duration": 2.46
+    },
+    {
+        "text": "available on GitHub links in the",
+        "start": 628.5,
+        "duration": 2.88
+    },
+    {
+        "text": "description and Corrections are in the",
+        "start": 629.76,
+        "duration": 3.6
+    },
+    {
+        "text": "pinned Errata comment thank you so much",
+        "start": 631.38,
+        "duration": 5.3
+    },
+    {
+        "text": "for watching talk to you on Discord",
+        "start": 633.36,
+        "duration": 3.32
+    }
+]
