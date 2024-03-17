@@ -1,0 +1,372 @@
+[
+    {
+        "text": "rust a memory safe compiled programming",
+        "start": 0.24,
+        "duration": 3.84
+    },
+    {
+        "text": "language that delivers high-level",
+        "start": 2.639,
+        "duration": 3.521
+    },
+    {
+        "text": "simplicity with low-level performance",
+        "start": 4.08,
+        "duration": 3.759
+    },
+    {
+        "text": "it's a popular choice for building",
+        "start": 6.16,
+        "duration": 3.76
+    },
+    {
+        "text": "systems where performance is absolutely",
+        "start": 7.839,
+        "duration": 4.72
+    },
+    {
+        "text": "critical like game engines databases or",
+        "start": 9.92,
+        "duration": 4.56
+    },
+    {
+        "text": "operating systems and is an excellent",
+        "start": 12.559,
+        "duration": 3.681
+    },
+    {
+        "text": "choice when targeting webassembly it",
+        "start": 14.48,
+        "duration": 3.84
+    },
+    {
+        "text": "started as a side project of great on",
+        "start": 16.24,
+        "duration": 4.4
+    },
+    {
+        "text": " in 2007 who named it after the",
+        "start": 18.32,
+        "duration": 4.48
+    },
+    {
+        "text": "rust fungus it was sponsored by mozilla",
+        "start": 20.64,
+        "duration": 4.399
+    },
+    {
+        "text": "in 2009 and has been ranked the most",
+        "start": 22.8,
+        "duration": 3.92
+    },
+    {
+        "text": "loved programming language every year",
+        "start": 25.039,
+        "duration": 4.24
+    },
+    {
+        "text": "since 2016 with its fans being known as",
+        "start": 26.72,
+        "duration": 4.719
+    },
+    {
+        "text": "rust stations traditionally high level",
+        "start": 29.279,
+        "duration": 4.481
+    },
+    {
+        "text": "languages provide a garbage collector to",
+        "start": 31.439,
+        "duration": 4.401
+    },
+    {
+        "text": "nerf your control over memory management",
+        "start": 33.76,
+        "duration": 3.84
+    },
+    {
+        "text": "while lower level languages provide",
+        "start": 35.84,
+        "duration": 4.0
+    },
+    {
+        "text": "functions like free and allocate to",
+        "start": 37.6,
+        "duration": 4.0
+    },
+    {
+        "text": "shoot yourself in the foot rust takes a",
+        "start": 39.84,
+        "duration": 3.44
+    },
+    {
+        "text": "different approach it has no garbage",
+        "start": 41.6,
+        "duration": 3.439
+    },
+    {
+        "text": "collector but achieves memory safety",
+        "start": 43.28,
+        "duration": 4.08
+    },
+    {
+        "text": "with a concept known as ownership and",
+        "start": 45.039,
+        "duration": 4.641
+    },
+    {
+        "text": "borrowing by default every variable in",
+        "start": 47.36,
+        "duration": 4.4
+    },
+    {
+        "text": "rust is immutable this allows values to",
+        "start": 49.68,
+        "duration": 3.76
+    },
+    {
+        "text": "be used in the stack memory which has",
+        "start": 51.76,
+        "duration": 3.6
+    },
+    {
+        "text": "minimal performance overhead however",
+        "start": 53.44,
+        "duration": 3.759
+    },
+    {
+        "text": "mutable values or objects with an",
+        "start": 55.36,
+        "duration": 4.24
+    },
+    {
+        "text": "unknown size at compile time are stored",
+        "start": 57.199,
+        "duration": 4.721
+    },
+    {
+        "text": "in the heap memory every value in a rust",
+        "start": 59.6,
+        "duration": 4.639
+    },
+    {
+        "text": "program is assigned to a single variable",
+        "start": 61.92,
+        "duration": 4.16
+    },
+    {
+        "text": "known as its owner when that variable",
+        "start": 64.239,
+        "duration": 3.681
+    },
+    {
+        "text": "goes out of scope the memory allocated",
+        "start": 66.08,
+        "duration": 4.0
+    },
+    {
+        "text": "to it is dropped automatically in some",
+        "start": 67.92,
+        "duration": 3.84
+    },
+    {
+        "text": "cases though you may want to pass a",
+        "start": 70.08,
+        "duration": 3.039
+    },
+    {
+        "text": "reference to a different part of the",
+        "start": 71.76,
+        "duration": 4.08
+    },
+    {
+        "text": "program borrowing allows you to access a",
+        "start": 73.119,
+        "duration": 4.401
+    },
+    {
+        "text": "reference in memory without taking",
+        "start": 75.84,
+        "duration": 3.599
+    },
+    {
+        "text": "ownership of it there are a ton of rules",
+        "start": 77.52,
+        "duration": 3.52
+    },
+    {
+        "text": "to go along with this system that the",
+        "start": 79.439,
+        "duration": 3.521
+    },
+    {
+        "text": "rus borrow checker will validate at",
+        "start": 81.04,
+        "duration": 3.92
+    },
+    {
+        "text": "compile time these rules keep your code",
+        "start": 82.96,
+        "duration": 4.08
+    },
+    {
+        "text": "safe while providing absolute control",
+        "start": 84.96,
+        "duration": 4.32
+    },
+    {
+        "text": "over performance rust also has a package",
+        "start": 87.04,
+        "duration": 3.84
+    },
+    {
+        "text": "manager called cargo where each",
+        "start": 89.28,
+        "duration": 3.76
+    },
+    {
+        "text": "individual package is a crate to get",
+        "start": 90.88,
+        "duration": 4.559
+    },
+    {
+        "text": "started install rest then run cargo new",
+        "start": 93.04,
+        "duration": 4.64
+    },
+    {
+        "text": "from the command line in the main.rs",
+        "start": 95.439,
+        "duration": 4.32
+    },
+    {
+        "text": "file you'll find a main function which",
+        "start": 97.68,
+        "duration": 3.36
+    },
+    {
+        "text": "is where the program will start",
+        "start": 99.759,
+        "duration": 3.68
+    },
+    {
+        "text": "executing declare a variable with let",
+        "start": 101.04,
+        "duration": 4.64
+    },
+    {
+        "text": "followed by its name and type the value",
+        "start": 103.439,
+        "duration": 3.761
+    },
+    {
+        "text": "can't be changed or reassigned by",
+        "start": 105.68,
+        "duration": 3.68
+    },
+    {
+        "text": "default so add mutt to make it mutable",
+        "start": 107.2,
+        "duration": 4.16
+    },
+    {
+        "text": "the name of the variable is the owner a",
+        "start": 109.36,
+        "duration": 3.84
+    },
+    {
+        "text": "reference to its location in memory can",
+        "start": 111.36,
+        "duration": 3.28
+    },
+    {
+        "text": "be borrowed by other parts of the",
+        "start": 113.2,
+        "duration": 3.36
+    },
+    {
+        "text": "program by prefixing it with an",
+        "start": 114.64,
+        "duration": 3.92
+    },
+    {
+        "text": "ampersand then use a macro like print",
+        "start": 116.56,
+        "duration": 4.0
+    },
+    {
+        "text": "line to log the value to the standard",
+        "start": 118.56,
+        "duration": 3.76
+    },
+    {
+        "text": "output rest also comes with a standard",
+        "start": 120.56,
+        "duration": 4.08
+    },
+    {
+        "text": "library that contains modules to handle",
+        "start": 122.32,
+        "duration": 5.04
+    },
+    {
+        "text": "io the file system concurrency among",
+        "start": 124.64,
+        "duration": 4.72
+    },
+    {
+        "text": "many other things now compile your code",
+        "start": 127.36,
+        "duration": 4.08
+    },
+    {
+        "text": "to an executable with the rust compiler",
+        "start": 129.36,
+        "duration": 4.16
+    },
+    {
+        "text": "you just built a memory safe executable",
+        "start": 131.44,
+        "duration": 3.519
+    },
+    {
+        "text": "that can handle the most performance",
+        "start": 133.52,
+        "duration": 3.439
+    },
+    {
+        "text": "intensive system requirements this has",
+        "start": 134.959,
+        "duration": 4.241
+    },
+    {
+        "text": "been rust in 100 seconds hit the like",
+        "start": 136.959,
+        "duration": 3.761
+    },
+    {
+        "text": "button and subscribe if you want to see",
+        "start": 139.2,
+        "duration": 3.2
+    },
+    {
+        "text": "more short videos like this and leave a",
+        "start": 140.72,
+        "duration": 3.36
+    },
+    {
+        "text": "comment if you want to see a full rust",
+        "start": 142.4,
+        "duration": 3.839
+    },
+    {
+        "text": "tutorial thanks for watching and i will",
+        "start": 144.08,
+        "duration": 6.04
+    },
+    {
+        "text": "see you in the next one",
+        "start": 146.239,
+        "duration": 3.881
+    }
+]
